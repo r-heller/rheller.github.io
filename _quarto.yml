@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "R. Heller"
+  title: "r-heller.github.io"
   navbar:
     right:
       - about.qmd
