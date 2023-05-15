@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://r-heller.com/index.html</loc>
-    <lastmod>2023-05-15T15:17:27.845Z</lastmod>
+    <lastmod>2023-05-15T15:31:03.985Z</lastmod>
   </url>
   <url>
     <loc>https://r-heller.com/blog.html</loc>
-    <lastmod>2023-05-15T15:18:00.314Z</lastmod>
+    <lastmod>2023-05-15T15:34:44.649Z</lastmod>
   </url>
   <url>
     <loc>https://r-heller.com/posts/post-with-code/index.html</loc>
@@ -15,5 +15,9 @@
   <url>
     <loc>https://r-heller.com/posts/welcome/index.html</loc>
     <lastmod>2023-05-15T15:17:26.522Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r-heller.com/posts/new_post/new_post.html</loc>
+    <lastmod>2023-05-15T15:34:46.396Z</lastmod>
   </url>
 </urlset>
