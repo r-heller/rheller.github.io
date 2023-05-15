@@ -21,16 +21,16 @@ website:
 # You can ignore this part in the first step
 #       - icon: rss
 #         href: blog.xml
-#       - text: Ressources
-#         menu: 
-#           - text: DataViz Portfolio
-#             href: dataviz_portfolio.html
-#           - text: YARDS
-#             href: https://yards.albert-rapp.de/
-#           - text: R Weekly
-#             href: https://rweekly.org/
-#           - text: R Bloggers
-#             href: https://www.r-bloggers.com/
+      - text: Ressources
+        menu:
+          - text: DataViz Portfolio
+            href: dataviz_portfolio.html
+          - text: YARDS
+            href: https://yards.albert-rapp.de/
+          - text: R Weekly
+            href: https://rweekly.org/
+          - text: R Bloggers
+            href: https://www.r-bloggers.com/
 #       - text: Archive
 #         href: archive.qmd
 # google-analytics: <Insert your ID here>

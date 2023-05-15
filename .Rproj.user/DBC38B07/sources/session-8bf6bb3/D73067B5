@@ -3,7 +3,7 @@
     "path": "~/GitHub/r-heller.github.io/posts/new-post/new_post.qmd",
     "project_path": "posts/new-post/new_post.qmd",
     "type": "quarto_markdown",
-    "hash": "2410397025",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1684177713087.0,
@@ -18,7 +18,7 @@
         "docOutlineVisible": "1",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "65:0",
+        "rmdVisualModeLocation": "549:0",
         "rmdVisualCollapsedChunks": ""
     },
     "folds": "",
