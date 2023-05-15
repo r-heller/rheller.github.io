@@ -2,14 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://albert-rapp.de/index.html</loc>
-    <lastmod>2023-05-15T19:08:13.306Z</lastmod>
+    <lastmod>2023-05-15T20:23:26.224Z</lastmod>
   </url>
   <url>
     <loc>https://albert-rapp.de/posts/new-post/new_post.html</loc>
-    <lastmod>2023-05-15T19:08:52.518Z</lastmod>
+    <lastmod>2023-05-15T20:25:19.654Z</lastmod>
   </url>
   <url>
     <loc>https://albert-rapp.de/blog.html</loc>
-    <lastmod>2023-05-15T19:08:58.493Z</lastmod>
+    <lastmod>2023-05-15T20:25:48.064Z</lastmod>
+  </url>
+  <url>
+    <loc>https://albert-rapp.de/posts/post-with-code/index.html</loc>
+    <lastmod>2023-05-15T20:26:07.869Z</lastmod>
+  </url>
+  <url>
+    <loc>https://albert-rapp.de/archive/old-post/old_post.html</loc>
+    <lastmod>2023-05-15T19:22:57.109Z</lastmod>
+  </url>
+  <url>
+    <loc>https://albert-rapp.de/archive.html</loc>
+    <lastmod>2023-05-15T20:23:35.255Z</lastmod>
+  </url>
+  <url>
+    <loc>https://albert-rapp.de/posts/welcome/index.html</loc>
+    <lastmod>2023-05-15T20:20:27.187Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r-heller.com/posts/post-with-code/index.html</loc>
+    <lastmod>2023-05-15T20:39:53.119Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r-heller.com/blog.html</loc>
+    <lastmod>2023-05-15T20:50:30.468Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r-heller.com/archive.html</loc>
+    <lastmod>2023-05-15T20:35:28.140Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r-heller.com/index.html</loc>
+    <lastmod>2023-05-15T21:02:39.123Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r-heller.com/archive/old-post/old_post.html</loc>
+    <lastmod>2023-05-15T20:35:30.395Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r-heller.com/posts/new-post/new_post.html</loc>
+    <lastmod>2023-05-15T20:50:29.992Z</lastmod>
   </url>
 </urlset>
