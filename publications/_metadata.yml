@@ -21,7 +21,7 @@ format:
   html:
     include-after-body: ../footer.html
 
-comments:
-  utterances:
-    repo:  r-heller/blogComments
+# comments:
+#   utterances:
+#     repo:  r-heller/blogComments
 #########################

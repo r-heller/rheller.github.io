@@ -39,10 +39,9 @@ website:
         href: https://twitter.com/rappa753
       - icon: youtube
         href: https://www.youtube.com/user/Alfrodo123
-
-
-# google-analytics: <Insert your ID here>
-  cookie-consent: true
+  
+  # google-analytics: <Insert your ID here>
+  # cookie-consent: true
 
 # filters:
 #   - code-filename
