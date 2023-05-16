@@ -19,36 +19,14 @@ about:
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-# Hi, I'm XY.
+<!-- # Hi, I'm XY. -->
 
-XY
+<!-- XY -->
 
-<iframe src="https://embeds.beehiiv.com/72a7cafd-e673-492d-97bf-967c8149b7a8?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;">
-
-</iframe>
-:::
-:::
-
-::: {.g-col-12 .g-col-md-5 .g-start-md-2}
-
-# Data Visualization
-
-- Blog post 1
-
-- Blog post 2
-
-- Blog post 3
+<iframe src="https://embeds.beehiiv.com/72a7cafd-e673-492d-97bf-967c8149b7a8?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
 
 :::
-
-::: {.g-col-12 .g-col-md-5}
-
-# Stats/ML
-
-- This div...
-
-- ...required...
-
-- ...no offset (it's still in the first row)
-
 :::
+
+
+
