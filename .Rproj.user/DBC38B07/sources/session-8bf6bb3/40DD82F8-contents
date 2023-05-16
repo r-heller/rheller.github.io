@@ -29,26 +29,26 @@ XY
 :::
 :::
 
-<!-- ::: {.g-col-12 .g-col-md-5 .g-start-md-2} -->
+::: {.g-col-12 .g-col-md-5 .g-start-md-2}
 
-<!-- # Data Visualization -->
+# Data Visualization
 
-<!-- - Blog post 1 -->
+- Blog post 1
 
-<!-- - Blog post 2 -->
+- Blog post 2
 
-<!-- - Blog post 3 -->
+- Blog post 3
 
-<!-- ::: -->
+:::
 
-<!-- ::: {.g-col-12 .g-col-md-5} -->
+::: {.g-col-12 .g-col-md-5}
 
-<!-- # Stats/ML -->
+# Stats/ML
 
-<!-- - This div... -->
+- This div...
 
-<!-- - ...required... -->
+- ...required...
 
-<!-- - ...no offset (it's still in the first row) -->
+- ...no offset (it's still in the first row)
 
-<!-- ::: -->
+:::

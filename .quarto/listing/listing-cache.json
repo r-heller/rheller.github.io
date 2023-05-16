@@ -2,11 +2,27 @@
   "listingMap": {
     "blog.qmd": [
       "posts",
-      "posts/**/*.qmd"
+      "posts/**/*.qmd",
+      "blog/**/*.qmd"
     ],
     "archive.qmd": [
       "archive",
       "archive/**/*.qmd"
+    ],
+    "publications.qmd": [
+      "publications/**/*.qmd"
+    ],
+    "analysis.qmd": [
+      "analysis/**/*.qmd"
+    ],
+    "posts.qmd": [
+      "posts/**/*.qmd"
+    ],
+    "projects.qmd": [
+      "projects/**/*.qmd"
+    ],
+    "methods.qmd": [
+      "methods/**/*.qmd"
     ]
   }
 }

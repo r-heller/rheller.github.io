@@ -1,6 +1,32 @@
 [
   {
     "listing": "/blog.html",
+    "items": []
+  },
+  {
+    "listing": "/archive.html",
+    "items": [
+      "/archive/old-post/old_post.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/post-with-code/index.html",
+      "/publications/welcome/index.html",
+      "/publications/new-post/new_post.html"
+    ]
+  },
+  {
+    "listing": "/analysis.html",
+    "items": [
+      "/analysis/post-with-code/index.html",
+      "/analysis/welcome/index.html",
+      "/analysis/new-post/new_post.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
     "items": [
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html",
@@ -8,9 +34,19 @@
     ]
   },
   {
-    "listing": "/archive.html",
+    "listing": "/projects.html",
     "items": [
-      "/archive/old-post/old_post.html"
+      "/projects/post-with-code/index.html",
+      "/projects/welcome/index.html",
+      "/projects/new-post/new_post.html"
+    ]
+  },
+  {
+    "listing": "/methods.html",
+    "items": [
+      "/methods/post-with-code/index.html",
+      "/methods/welcome/index.html",
+      "/methods/new-post/new_post.html"
     ]
   }
 ]

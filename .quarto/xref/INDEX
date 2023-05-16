@@ -19,5 +19,56 @@
   },
   "archive.qmd": {
     "archive.html": "9e47a8b7"
+  },
+  "publications.qmd": {
+    "publications.html": "ee425a2e"
+  },
+  "analysis/new-post/new_post.qmd": {
+    "new_post.html": "9c5fb1e1"
+  },
+  "analysis/post-with-code/index.qmd": {
+    "index.html": "adedf191"
+  },
+  "analysis/welcome/index.qmd": {
+    "index.html": "1ab9969d"
+  },
+  "analysis.qmd": {
+    "analysis.html": "8b49d33d"
+  },
+  "posts.qmd": {
+    "posts.html": "60d0e1a5"
+  },
+  "projects/new-post/new_post.qmd": {
+    "new_post.html": "8b9a90db"
+  },
+  "projects/post-with-code/index.qmd": {
+    "index.html": "95422c52"
+  },
+  "projects/welcome/index.qmd": {
+    "index.html": "a91b7111"
+  },
+  "projects.qmd": {
+    "projects.html": "b9286b56"
+  },
+  "publications/new-post/new_post.qmd": {
+    "new_post.html": "04411c50"
+  },
+  "publications/post-with-code/index.qmd": {
+    "index.html": "8b267c1c"
+  },
+  "publications/welcome/index.qmd": {
+    "index.html": "fe84c3c9"
+  },
+  "methods.qmd": {
+    "methods.html": "64c704b5"
+  },
+  "methods/new-post/new_post.qmd": {
+    "new_post.html": "75a7bf3e"
+  },
+  "methods/post-with-code/index.qmd": {
+    "index.html": "faecb78a"
+  },
+  "methods/welcome/index.qmd": {
+    "index.html": "e3c3dc23"
   }
 }

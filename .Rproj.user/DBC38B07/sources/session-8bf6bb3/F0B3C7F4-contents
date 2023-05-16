@@ -7,8 +7,16 @@ website:
   description: "This is Raban Heller's personal Blog."
   navbar:
     right:
-      - text: Blog
-        href: blog.qmd 
+      - text: Ressources
+        menu:
+          - text: R Weekly
+            href: https://rweekly.org/
+          - text: R Bloggers
+            href: https://www.r-bloggers.com/
+      - text: Projects 
+        href: projects.qmd 
+      - text: Publications
+        href: publications.qmd
       - text: Archive
         href: archive.qmd 
       - icon: github
@@ -17,29 +25,18 @@ website:
         href: https://twitter.com/rappa753
       - icon: youtube
         href: https://www.youtube.com/user/Alfrodo123
-#########################
-# You can ignore this part in the first step
-#       - icon: rss
-#         href: blog.xml
-      - text: Ressources
-        menu:
-          - text: DataViz Portfolio
-            href: dataviz_portfolio.html
-          - text: YARDS
-            href: https://yards.albert-rapp.de/
-          - text: R Weekly
-            href: https://rweekly.org/
-          - text: R Bloggers
-            href: https://www.r-bloggers.com/
-#       - text: Archive
-#         href: archive.qmd
+    left: 
+      - text: Posts
+        href: posts.qmd 
+
+      - text: Methods
+        href: methods.qmd
+      - text: Data analysis
+        href: analysis.qmd
+
 # google-analytics: <Insert your ID here>
   cookie-consent: true
-#   twitter-card: 
-#     image: thumbnail_blog.png
-#     card-style: summary_large_image
-#     creator: "@rappa753"
-# 
+
 # filters:
 #   - code-filename
 ######################### 
