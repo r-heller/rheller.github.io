@@ -57,3 +57,5 @@
 [1,"Output created: _site\\index.html\n\nWatching files for changes\n"]
 [1,"pandoc \n  to: html\n  output-file: index.html\n  standalone: true\n  title-prefix: R. Heller\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  \nmetadata\n  pagetitle: R. Heller\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  theme:\n    light: flatly\n    dark: darkly\n  about:\n    id: hero-heading\n    template: trestles\n    image: profile.jpg\n  \n"]
 [1,"Output created: _site\\index.html\n\nWatching files for changes\n"]
+[1,"pandoc \n  to: html\n  output-file: index.html\n  standalone: true\n  title-prefix: R. Heller\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  \nmetadata\n  pagetitle: R. Heller\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  theme:\n    light: flatly\n    dark: darkly\n  about:\n    id: hero-heading\n    template: trestles\n    image: profile.jpg\n  \n"]
+[1,"Output created: _site\\index.html\n\nWatching files for changes\n"]
