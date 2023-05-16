@@ -1,14 +1,14 @@
 {
-    "id": "17C36158",
-    "path": "~/GitHub/r-heller.github.io/index.qmd",
-    "project_path": "index.qmd",
+    "id": "DB9F6D10",
+    "path": "~/GitHub/r-heller.github.io/impressum.qmd",
+    "project_path": "impressum.qmd",
     "type": "quarto_markdown",
-    "hash": "3400186533",
+    "hash": "195091484",
     "contents": "",
     "dirty": false,
-    "created": 1684230364649.0,
+    "created": 1684234136635.0,
     "source_on_save": true,
-    "relative_order": 2,
+    "relative_order": 4,
     "properties": {
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "27,49",
-        "scrollLine": "0",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "258:0",
+        "cursorPosition": "31,0",
+        "scrollLine": "16"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684235672,
+    "lastKnownWriteTime": 1684234496,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684235672324,
+    "last_content_update": 1684234496217,
     "read_only": false,
     "read_only_alternatives": []
 }

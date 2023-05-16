@@ -5,7 +5,7 @@ website:
   title: "R. Heller" 
   site-url: https://www.r-heller.com
   repo-url: https://github.com/r-heller/r-heller.github.io
-  description: "Esbsite of R. Heller"
+  description: "Website of R. Heller"
   favicon: /files/icon.png
   google-analytics: "G-7T94VJMY2C"
   navbar:
@@ -38,11 +38,15 @@ website:
         href: publications.qmd
       - text: Archive
         href: archive.qmd 
+      - text: Impressum
+        menu:
+          - text: DE
+            href: impressum.qmd
+          - text: EN
+            href: impressum.qmd
       - icon: github
         href: https://github.com/r-heller
-      - icon: researchgate
-        href: https://www.youtube.com/user/Alfrodo123
-  
+
   cookie-consent: true
 
 
@@ -58,8 +62,8 @@ website:
       
     right: |
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
-      Inspiration and code snippets taken from [these folks.](/posts/quarto-website-migration.html)<br>
-      [Source at {{< fa brands github >}} GitHub](https://github.com/andreashandel/andreashandelwebsite)
+      Inspiration and code snippets taken from [A. Handel](https://www.andreashandel.com/) and [A. Rapp](https://albert-rapp.de/)<br>
+      [Source at {{< fa brands github >}} GitHub](https://github.com/r-heller/r-heller.github.io)
       
 format:
   html:

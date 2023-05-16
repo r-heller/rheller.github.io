@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>R. Heller</title>
-<link>https://r-heller.com/archive.html</link>
-<atom:link href="https://r-heller.com/archive.xml" rel="self" type="application/rss+xml"/>
-<description>This is Raban Heller&#39;s personal Blog.</description>
+<link>https://www.r-heller.com/archive.html</link>
+<atom:link href="https://www.r-heller.com/archive.xml" rel="self" type="application/rss+xml"/>
+<description>Website of R. Heller</description>
 <generator>quarto-1.3.340</generator>
 <lastBuildDate>Tue, 31 May 2022 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Archive posts</title>
   <dc:creator>Raban Heller</dc:creator>
-  <link>https://r-heller.com/archive/old-post/old_post.html</link>
+  <link>https://www.r-heller.com/archive/old-post/old_post.html</link>
   <description><![CDATA[ 
 
 
@@ -52,7 +52,7 @@ font-style: inherit;">alpha =</span> <span class="fl" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">0.5</span>) </span></code></pre></div>
 <div class="cell-output-display">
-<p><img src="https://r-heller.com/archive/old-post/old_post_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid" width="672"></p>
+<p><img src="https://www.r-heller.com/archive/old-post/old_post_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid" width="672"></p>
 </div>
 </div>
 </section>
@@ -181,7 +181,7 @@ font-style: inherit;">'Bill length (in mm)'</span></span>
 <span id="cb2-16">  )</span></code></pre></div>
 </details>
 <div class="cell-output-display">
-<p><img src="https://r-heller.com/archive/old-post/old_post_files/figure-html/unnamed-chunk-3-1.png" class="img-fluid" width="672"></p>
+<p><img src="https://www.r-heller.com/archive/old-post/old_post_files/figure-html/unnamed-chunk-3-1.png" class="img-fluid" width="672"></p>
 </div>
 </div>
 </div>
@@ -361,7 +361,7 @@ font-style: inherit;">'Bill length (in mm)'</span></span>
 <span id="cb3-26">  )</span></code></pre></div>
 </details>
 <div class="cell-output-display">
-<p><img src="https://r-heller.com/archive/old-post/old_post_files/figure-html/unnamed-chunk-4-1.png" class="img-fluid" width="672"></p>
+<p><img src="https://www.r-heller.com/archive/old-post/old_post_files/figure-html/unnamed-chunk-4-1.png" class="img-fluid" width="672"></p>
 </div>
 </div>
 </div>
@@ -538,7 +538,7 @@ font-style: inherit;">0.5</span>)</span></code></pre></div>
 <div class="cell-output-display page-columns page-full">
 <div class="quarto-figure quarto-figure-center page-columns page-full">
 <figure class="figure page-columns page-full">
-<p><img src="https://r-heller.com/archive/old-post/old_post_files/figure-html/unnamed-chunk-7-1.png" class="img-fluid figure-img" width="672"></p>
+<p><img src="https://www.r-heller.com/archive/old-post/old_post_files/figure-html/unnamed-chunk-7-1.png" class="img-fluid figure-img" width="672"></p>
 <figcaption class="figure-caption margin-caption">Bla bla bla. This is a caption in the margin. Super cool isn’t it?</figcaption>
 </figure>
 </div>
@@ -552,7 +552,7 @@ font-style: inherit;">0.5</span>)</span></code></pre></div>
  ]]></description>
   <category>123</category>
   <category>Second Tag</category>
-  <guid>https://r-heller.com/archive/old-post/old_post.html</guid>
+  <guid>https://www.r-heller.com/archive/old-post/old_post.html</guid>
   <pubDate>Tue, 31 May 2022 22:00:00 GMT</pubDate>
 </item>
 </channel>
