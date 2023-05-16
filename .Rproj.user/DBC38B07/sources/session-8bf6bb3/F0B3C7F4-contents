@@ -65,8 +65,9 @@ website:
             href: impressum.qmd
       - icon: github
         href: https://github.com/r-heller
-
-  cookie-consent: true
+        
+    cookie-consent: true
+    search: true
 
 
 
@@ -80,7 +81,7 @@ website:
       {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
       
     right: |
-      Made with {{< fa brands fa-r-project >}} and [Quarto](https://quarto.org/)<br>
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
       Inspiration and code snippets taken from [A. Handel](https://www.andreashandel.com/) and [A. Rapp](https://albert-rapp.de/)<br>
       [Source at {{< fa brands github >}} GitHub](https://github.com/r-heller/r-heller.github.io)
       
