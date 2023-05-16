@@ -32,8 +32,6 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/cookie-consent/cookie-consent.js"></script>
-<link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -94,22 +92,6 @@ ul.task-list li input[type="checkbox"] {
   })
   </script>
 
-<script type="text/javascript" charset="UTF-8">
-document.addEventListener('DOMContentLoaded', function () {
-cookieconsent.run({
-  "notice_banner_type":"simple",
-  "consent_type":"implied",
-  "palette":"light",
-  "language":"en",
-  "page_load_consent_levels":["strictly-necessary","functionality","tracking","targeting"],
-  "notice_banner_reject_button_hide":false,
-  "preferences_center_close_button_hide":false,
-  "website_name":""
-  });
-});
-</script> 
-  
-
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
@@ -131,43 +113,44 @@ cookieconsent.run({
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html" rel="" target="">
+ <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-posts" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Posts</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-posts">    
+        <li>
+    <a class="dropdown-item" href="./posts.html" rel="" target="">
+ <span class="dropdown-text">Biomedicine</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./analysis.html" rel="" target="">
+ <span class="dropdown-text">Data analysis</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-methods" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Methods</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-methods">    
+        <li>
+    <a class="dropdown-item" href="./methods.html" rel="" target="">
+ <span class="dropdown-text">Entscheidungsbaum</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="./blog.html" rel="" target="">
- <span class="menu-text">Blog</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="./archive.html" rel="" target="" aria-current="page">
- <span class="menu-text">Archive</span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/AlbertRapp" rel="" target=""><i class="bi bi-github" role="img">
-</i> 
- <span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/rappa753" rel="" target=""><i class="bi bi-twitter" role="img">
-</i> 
- <span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://www.youtube.com/user/Alfrodo123" rel="" target=""><i class="bi bi-youtube" role="img">
-</i> 
- <span class="menu-text"></span></a>
-  </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-ressources" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">Ressources</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-ressources">    
-        <li>
-    <a class="dropdown-item" href="./dataviz_portfolio.html" rel="" target="">
- <span class="dropdown-text">DataViz Portfolio</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="https://yards.albert-rapp.de/" rel="" target="">
- <span class="dropdown-text">YARDS</span></a>
-  </li>  
         <li>
     <a class="dropdown-item" href="https://rweekly.org/" rel="" target="">
  <span class="dropdown-text">R Weekly</span></a>
@@ -178,6 +161,28 @@ cookieconsent.run({
   </li>  
     </ul>
   </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./projects.html" rel="" target="">
+ <span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./publications.html" rel="" target="">
+ <span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./archive.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Archive</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/r-heller" rel="" target=""><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.youtube.com/user/Alfrodo123" rel="" target=""><i class="bi bi-researchgate" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
 </ul>
             <div class="quarto-navbar-tools">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
@@ -615,17 +620,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<footer class="footer">
-  <div class="nav-footer">
-    <div class="nav-footer-left">
-      &nbsp;
-    </div>   
-    <div class="nav-footer-center"><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
-    <div class="nav-footer-right">
-      &nbsp;
-    </div>
-  </div>
-</footer>
 
 
 

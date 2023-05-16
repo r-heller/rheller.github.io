@@ -34,10 +34,8 @@ website:
       - text: Archive
         href: archive.qmd 
       - icon: github
-        href: https://github.com/AlbertRapp
-      - icon: twitter
-        href: https://twitter.com/rappa753
-      - icon: youtube
+        href: https://github.com/r-heller
+      - icon: researchgate
         href: https://www.youtube.com/user/Alfrodo123
   
   # google-analytics: <Insert your ID here>
