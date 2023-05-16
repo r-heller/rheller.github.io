@@ -19,7 +19,8 @@
       "posts/**/*.qmd"
     ],
     "projects.qmd": [
-      "projects/**/*.qmd"
+      "projects/**/*.qmd",
+      "projects"
     ],
     "methods.qmd": [
       "methods/**/*.qmd"

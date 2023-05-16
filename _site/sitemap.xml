@@ -142,7 +142,7 @@
   </url>
   <url>
     <loc>https://www.r-heller.com/index.html</loc>
-    <lastmod>2023-05-16T12:45:59.479Z</lastmod>
+    <lastmod>2023-05-16T13:16:54.891Z</lastmod>
   </url>
   <url>
     <loc>https://www.r-heller.com/impressum.html</loc>
@@ -162,7 +162,7 @@
   </url>
   <url>
     <loc>https://www.r-heller.com/publications.html</loc>
-    <lastmod>2023-05-16T12:46:14.061Z</lastmod>
+    <lastmod>2023-05-16T13:17:05.808Z</lastmod>
   </url>
   <url>
     <loc>https://www.r-heller.com/methods.html</loc>
@@ -170,10 +170,18 @@
   </url>
   <url>
     <loc>https://www.r-heller.com/posts.html</loc>
-    <lastmod>2023-05-16T12:45:13.518Z</lastmod>
+    <lastmod>2023-05-16T13:17:31.625Z</lastmod>
   </url>
   <url>
     <loc>https://www.r-heller.com/archive/old-post/old_post.html</loc>
     <lastmod>2023-05-16T12:45:24.077Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/projects.html</loc>
+    <lastmod>2023-05-16T13:17:11.071Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/publications/post-with-code/index.html</loc>
+    <lastmod>2023-05-16T13:13:56.715Z</lastmod>
   </url>
 </urlset>

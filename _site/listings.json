@@ -37,8 +37,8 @@
     "listing": "/projects.html",
     "items": [
       "/projects/post-with-code/index.html",
-      "/projects/welcome/index.html",
-      "/projects/new-post/new_post.html"
+      "/projects/new-post/new_post.html",
+      "/projects/welcome/index.html"
     ]
   },
   {
