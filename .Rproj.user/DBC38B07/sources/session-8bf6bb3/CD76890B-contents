@@ -17,11 +17,11 @@ page-layout: article
 
 #########################
 # You can skip this part in the first step
-# format:
-#   html:
-#     include-after-body: ../footer.html
-# 
-# comments: 
-#   utterances: 
-#     repo:  AlbertRapp/blogComments 
+format:
+  html:
+    include-after-body: ../footer.html
+
+comments:
+  utterances:
+    repo:  r-heller/blogComments
 #########################
