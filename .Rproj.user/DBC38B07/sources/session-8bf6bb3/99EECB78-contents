@@ -1,0 +1,15 @@
+---
+title: "Template"
+description: "R package that XY."
+image: featured.png
+image-alt: TEMPLATE logo
+categories:
+  - Research
+  - Visualization
+  - R Package
+about:
+  template: solana
+  image: featured.png
+---
+
+We developed the R package `TEMPLATE` to XY. Learn more about it [on the package website](https://r-heller.github.io/xy/).

@@ -85,5 +85,14 @@
   },
   "impressum.qmd": {
     "impressum.html": "5ef6d959"
+  },
+  "404.qmd": {
+    "404.html": "5e2b081e"
+  },
+  "projects/template/index.qmd": {
+    "index.html": "8f4622f7"
+  },
+  "publications/template/index.qmd": {
+    "index.html": "bedc816d"
   }
 }

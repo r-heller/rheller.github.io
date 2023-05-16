@@ -11,9 +11,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/r-heller
-    - icon: mastodon
-      text: Mastodon
-      href: https://mastodon.social/@rheller
+    # - icon: mastodon
+    #   text: Mastodon
+    #   href: https://mastodon.social/@rheller
     # - icon: linkedin
     #   text: LinkedIn
     #   href: https://www.linkedin.com/in/andreashandel/
@@ -26,6 +26,9 @@ about:
     - icon: orcid
       text: ORCID
       href: https://orcid.org/0000-0001-8006-9742
+    - icon: researchgate
+      text: Researchgate
+      href: https://www.researchgate.net/profile/Raban-Heller
 comments: false
 ---
 
@@ -52,7 +55,6 @@ I send out a monthly (or less frequent) 5-minute newsletter with updates on on d
 
 ```{=html}
 <img src="https://vg01.met.vgwort.de/na/4bb8751c0857439ea31b9bdeac4bcd16" width="1" height="1"/>
-
 ```
 
 

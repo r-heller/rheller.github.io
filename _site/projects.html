@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -258,7 +258,7 @@ cookieconsent.run({
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="123">123 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Second Tag">Second Tag <span class="quarto-category-count">(1)</span></div><div class="category" data-category="analysis">analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="code">code <span class="quarto-category-count">(1)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R Package">R Package <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Research">Research <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Visualization">Visualization <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -279,12 +279,6 @@ cookieconsent.run({
          <option value="listing-title" data-direction="asc">
           Title
         </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
          <option value="listing-author" data-direction="asc">
           Author
         </option>
@@ -296,95 +290,33 @@ cookieconsent.run({
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="news,code,analysis" data-listing-date-sort="1684101600000" data-listing-file-modified-sort="1684171124414" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<a href="./projects/post-with-code/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="Research,Visualization,R Package" data-listing-file-modified-sort="1684243845955" data-listing-reading-time-sort="1">
+<a href="./projects/template/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./projects/post-with-code/image.jpg" class="thumbnail-image card-img" style="height: 260px;">
+<img src="./projects/template/featured.png" class="thumbnail-image card-img" style="height: 260px;" alt="TEMPLATE logo">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Post With Code
+Template
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
+<div class="listing-category" onclick="window.quartoListingCategory('Research'); return false;">
+Research
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('code'); return false;">
-code
+<div class="listing-category" onclick="window.quartoListingCategory('Visualization'); return false;">
+Visualization
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('analysis'); return false;">
-analysis
+<div class="listing-category" onclick="window.quartoListingCategory('R Package'); return false;">
+R Package
 </div>
 </div>
 <div class="card-text listing-description">
-This is a post with executable code.
+R package that XY.
 </div>
-<div class="card-attribution card-text-small justify">
+<div class="card-attribution card-text-small start">
 <div class="listing-author">
-Harlow Malloc
-</div>
-<div class="listing-date">
-May 15, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="123,Second Tag" data-listing-date-sort="1654034400000" data-listing-file-modified-sort="1684177785228" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
-<a href="./projects/new-post/new_post.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="projects\new-post\new_post_files\figure-html\unnamed-chunk-1-1.png" style="height: 260px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-This is a dummy blog posts
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('123'); return false;">
-123
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Second Tag'); return false;">
-Second Tag
-</div>
-</div>
-<div class="card-text listing-description">
-This is a test post. In this post, I try out different functionalities
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Harlow Malloc
-</div>
-<div class="listing-date">
-Jun 1, 2022
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="news" data-listing-date-sort="1683842400000" data-listing-file-modified-sort="1684171124411" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<a href="./projects/welcome/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="projects\welcome\thumbnail.jpg" style="height: 260px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Welcome To My Blog
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
-</div>
-</div>
-<div class="card-text listing-description">
-This is the first post in a Quarto blog. Welcome!
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Tristan O’Malley
-</div>
-<div class="listing-date">
-May 12, 2023
+R. Heller
 </div>
 </div>
 </div>

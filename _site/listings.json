@@ -12,9 +12,7 @@
   {
     "listing": "/publications.html",
     "items": [
-      "/publications/post-with-code/index.html",
-      "/publications/welcome/index.html",
-      "/publications/new-post/new_post.html"
+      "/publications/template/index.html"
     ]
   },
   {
@@ -36,9 +34,7 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/post-with-code/index.html",
-      "/projects/new-post/new_post.html",
-      "/projects/welcome/index.html"
+      "/projects/template/index.html"
     ]
   },
   {

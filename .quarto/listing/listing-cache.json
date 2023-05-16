@@ -27,6 +27,10 @@
     ],
     "about.qmd": [
       "about/**/*.qmd"
+    ],
+    "404.qmd": [
+      "posts",
+      "presentations"
     ]
   }
 }
