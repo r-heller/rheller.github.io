@@ -48,5 +48,13 @@
       "/methods/welcome/index.html",
       "/methods/new-post/new_post.html"
     ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/about/post-with-code/index.html",
+      "/about/welcome/index.html",
+      "/about/new-post/new_post.html"
+    ]
   }
 ]

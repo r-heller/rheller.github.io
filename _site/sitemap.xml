@@ -42,7 +42,7 @@
   </url>
   <url>
     <loc>https://r-heller.com/index.html</loc>
-    <lastmod>2023-05-16T07:47:46.655Z</lastmod>
+    <lastmod>2023-05-16T09:30:42.278Z</lastmod>
   </url>
   <url>
     <loc>https://r-heller.com/archive/old-post/old_post.html</loc>
@@ -70,11 +70,11 @@
   </url>
   <url>
     <loc>https://r-heller.com/analysis.html</loc>
-    <lastmod>2023-05-16T07:53:13.163Z</lastmod>
+    <lastmod>2023-05-16T08:06:38.837Z</lastmod>
   </url>
   <url>
     <loc>https://r-heller.com/posts.html</loc>
-    <lastmod>2023-05-16T07:53:36.890Z</lastmod>
+    <lastmod>2023-05-16T08:01:41.140Z</lastmod>
   </url>
   <url>
     <loc>https://r-heller.com/projects/new-post/new_post.html</loc>
@@ -90,7 +90,7 @@
   </url>
   <url>
     <loc>https://r-heller.com/projects.html</loc>
-    <lastmod>2023-05-16T07:54:12.745Z</lastmod>
+    <lastmod>2023-05-16T08:00:58.153Z</lastmod>
   </url>
   <url>
     <loc>https://r-heller.com/publications/new-post/new_post.html</loc>
@@ -106,7 +106,7 @@
   </url>
   <url>
     <loc>https://r-heller.com/methods.html</loc>
-    <lastmod>2023-05-16T07:50:48.160Z</lastmod>
+    <lastmod>2023-05-16T08:06:42.013Z</lastmod>
   </url>
   <url>
     <loc>https://r-heller.com/methods/new-post/new_post.html</loc>
@@ -119,5 +119,21 @@
   <url>
     <loc>https://r-heller.com/methods/welcome/index.html</loc>
     <lastmod>2023-05-16T07:35:07.159Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r-heller.com/about.html</loc>
+    <lastmod>2023-05-16T08:01:34.229Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r-heller.com/about/new-post/new_post.html</loc>
+    <lastmod>2023-05-16T08:01:30.198Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r-heller.com/about/post-with-code/index.html</loc>
+    <lastmod>2023-05-16T08:01:31.631Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r-heller.com/about/welcome/index.html</loc>
+    <lastmod>2023-05-16T08:01:32.090Z</lastmod>
   </url>
 </urlset>

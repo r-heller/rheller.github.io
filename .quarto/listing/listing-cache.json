@@ -23,6 +23,9 @@
     ],
     "methods.qmd": [
       "methods/**/*.qmd"
+    ],
+    "about.qmd": [
+      "about/**/*.qmd"
     ]
   }
 }

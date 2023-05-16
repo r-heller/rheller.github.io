@@ -70,5 +70,17 @@
   },
   "methods/welcome/index.qmd": {
     "index.html": "e3c3dc23"
+  },
+  "about.qmd": {
+    "about.html": "2f37cb5b"
+  },
+  "about/new-post/new_post.qmd": {
+    "new_post.html": "9152590b"
+  },
+  "about/post-with-code/index.qmd": {
+    "index.html": "b8abeff7"
+  },
+  "about/welcome/index.qmd": {
+    "index.html": "28d5747c"
   }
 }

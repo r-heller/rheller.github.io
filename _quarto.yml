@@ -6,6 +6,20 @@ website:
   site-url: https://r-heller.com
   description: "This is Raban Heller's personal Blog."
   navbar:
+    left: 
+      - text: About
+        href: about.qmd 
+      - text: Posts
+        menu:
+          - text: Biomedicine
+            href: posts.qmd 
+          - text: Data analysis
+            href: analysis.qmd
+      - text: Methods
+        menu:
+          - text: Entscheidungsbaum
+            href: methods.qmd
+        
     right:
       - text: Ressources
         menu:
@@ -25,14 +39,7 @@ website:
         href: https://twitter.com/rappa753
       - icon: youtube
         href: https://www.youtube.com/user/Alfrodo123
-    left: 
-      - text: Posts
-        href: posts.qmd 
 
-      - text: Methods
-        href: methods.qmd
-      - text: Data analysis
-        href: analysis.qmd
 
 # google-analytics: <Insert your ID here>
   cookie-consent: true
