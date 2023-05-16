@@ -43,7 +43,6 @@ website:
         menu:
           - text: Entscheidungsbaum
             href: methods.qmd
-        
     right:
       - text: Ressources
         menu:
@@ -65,15 +64,8 @@ website:
             href: impressum.qmd
       - icon: github
         href: https://github.com/r-heller
-        
-    cookie-consent: true
-    search: true
-
-
-
-# filters:
-#   - code-filename
-
+  cookie-consent: true
+  search: true
   page-footer:
     left: |
       {{< fa regular copyright >}} R. Heller, 2023<br>
@@ -84,7 +76,7 @@ website:
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
       Inspiration and code snippets taken from [A. Handel](https://www.andreashandel.com/) and [A. Rapp](https://albert-rapp.de/)<br>
       [Source at {{< fa brands github >}} GitHub](https://github.com/r-heller/r-heller.github.io)
-      
+
 format:
   html:
     theme: 

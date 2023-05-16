@@ -1,14 +1,14 @@
 {
-    "id": "39394B53",
+    "id": "D6E0E8E9",
     "path": "~/GitHub/r-heller.github.io/about.qmd",
     "project_path": "about.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "4153049039",
     "contents": "",
     "dirty": false,
-    "created": 1684235140672.0,
+    "created": 1684240943269.0,
     "source_on_save": false,
-    "relative_order": 7,
+    "relative_order": 3,
     "properties": {
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "1619:0",
-        "cursorPosition": "15,0",
-        "scrollLine": "5"
+        "rmdVisualModeLocation": "69:0",
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684235246,
+    "lastKnownWriteTime": 1684240982,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684235246567,
+    "last_content_update": 1684240982992,
     "read_only": false,
     "read_only_alternatives": []
 }
