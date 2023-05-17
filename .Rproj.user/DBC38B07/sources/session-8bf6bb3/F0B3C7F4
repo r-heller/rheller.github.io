@@ -3,7 +3,7 @@
     "path": "~/GitHub/r-heller.github.io/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "1446967638",
     "contents": "",
     "dirty": false,
     "created": 1684171276545.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "66,0",
-        "scrollLine": "40"
+        "cursorPosition": "86,0",
+        "scrollLine": "41"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684240835,
+    "lastKnownWriteTime": 1684255564,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684240835867,
+    "last_content_update": 1684255564446,
     "read_only": false,
     "read_only_alternatives": []
 }

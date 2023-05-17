@@ -1,7 +1,7 @@
 ---
 title: "Template Publication"
 author: "R. Heller"
-date: '/today'
+date: "`r format(Sys.Date())`"
 description: "R package that XY."
 # image: featured.png
 # image-alt: TEMPLATE logo
@@ -19,16 +19,17 @@ editor_options:
   chunk_output_type: console
 # references
 bibliography: references.bib
-# csl: nature.csl
+csl: nature.csl
 ---
-
-We developed the R package `TEMPLATE` to XY. Learn more about it [on the package website](https://r-heller.github.io/xy/).
 
 ```{r}
 lorem::ipsum(paragraphs = 10)
+
 ```
 
 Blah Blah [@heller2021].
+
+
 
 ### References
 

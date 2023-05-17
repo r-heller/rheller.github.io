@@ -3,7 +3,7 @@
     "path": "~/GitHub/r-heller.github.io/publications/template/index.qmd",
     "project_path": "publications/template/index.qmd",
     "type": "quarto_markdown",
-    "hash": "3472480707",
+    "hash": "1703751015",
     "contents": "",
     "dirty": false,
     "created": 1684243978020.0,
@@ -17,16 +17,16 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "22:0",
-        "cursorPosition": "35,0",
+        "cursorPosition": "31,0",
         "scrollLine": "0",
         "chunk_output_type": "console"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684245394,
+    "lastKnownWriteTime": 1684324659,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684245394778,
+    "last_content_update": 1684324659601,
     "read_only": false,
     "read_only_alternatives": []
 }
