@@ -1,0 +1,175 @@
+---
+title: Entscheidungsbaum
+listing:
+  contents: methods/**/*.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, description, categories]
+  feed: true
+page-layout: full
+title-block-banner: true
+---
+
+
+
+```{r echo=FALSE}
+DiagrammeR::mermaid('
+graph TB
+  A1[Dependenzanalyse]
+  C1[Unterschiede]
+  C2[Zusammenhänge]
+  D1[Zentrale<br>Tendenz]
+  D2[Varianzen]
+  D3[Proportionen und<br>Häufigkeiten]
+  E1[Unabhängige<br>Stichproben]
+  E2[Verbundene<br>Stichproben]
+  E1F1[2 Variablen,<br>2 Stufen]
+  E1F2[2 Variablen,<br>>2 Stufen]
+  E2F1[2 Variablen,<br>2 Stufen]
+  E2F2[2 Variablen,<br>>2 Stufen]
+  F3[1 AV,>2UVs]
+  F4[2 Variablen]
+  F5[>2 Variablen]
+  G1[t-Test für<br>unabhängige<br>Stichproben]
+  G2[Mann-Whitney]
+  G3[Einfaktorielle<br>Varianzanalyse]
+  G4[Kruskal-Wallis]
+  G5[Mehrfaktorielle<br>Varianzanalyse]
+  G6[t-Test für<br>verbundene<br>Stichproben]
+  G7[Wilcoxon]
+  G8[Vorzeichentest]
+  G9[Einfaktorielle<br>Varianzanalyse<br>mit Mess-<br>wiederholung]
+  G10[Friedman]
+  G11[Chi2]
+  G12[F-Test]
+  G13[Binomial-Test]
+  G14[Pearson Chi2]
+  G15[Pearson Chi2]
+  G16[Rangkorrelation]
+  G17[Korrelation]
+  G18[Einfache<br>Regression]
+  G19[Multiple<br>Regression]
+  G20[logistische Regression]
+
+  A1-->C1
+  A1-->C2
+  C1-->D1
+  C1-->D2
+  C1-->D3
+  C2-->F4
+  C2-->F5
+  D1-->E1
+  D1-->E2
+  E1-->E1F1
+  E1-->E1F2
+  E1-->F3
+  E2-->E2F1
+  E2-->E2F2
+  E1F1---G1
+  G1---G2
+  E1F2---G3
+  G3---G4
+  F3---G5
+  E2F1---G6
+  G6---G7
+  G7---G8
+  E2F2---G9
+  G9---G10
+  D2---G11
+  G11---G12
+  D3---G13
+  G13---G14
+  F4---G15
+  G15---G16
+  G16---G17
+  G17---G18
+  F5---G19
+  G19---G20
+
+
+  style A1 fill:#ECF0F1, shape:box, stroke:#2D3E50, stroke-width:2px, font-weight:bold
+  style C1 fill:#ECF0F1, shape:box, stroke:#2D3E50, stroke-width:2px, font-weight:bold
+  style C2 fill:#ECF0F1, shape:box, stroke:#2D3E50, stroke-width:2px, font-weight:bold
+  
+  style D1 fill:#FFFFFF, shape:box, stroke:#2D3E50, stroke-width:2px, font-weight:bold
+  style D2 fill:#FFFFFF, shape:box, stroke:#2D3E50, stroke-width:2px, font-weight:bold
+  style D3 fill:#FFFFFF, shape:box, stroke:#2D3E50, stroke-width:2px, font-weight:bold
+
+  style E1 fill:#FFFFFF, shape:box, stroke:#FFFFFF, stroke-width:2px, font-weight:bold
+  style E2 fill:#FFFFFF, shape:box, stroke:#FFFFFF, stroke-width:2px, font-weight:bold
+  
+  style E1F1 fill:#FFFFFF, shape:box, stroke:#FFFFFF, stroke-width:2px, font-weight:bold
+  style E2F1 fill:#FFFFFF, shape:box, stroke:#FFFFFF, stroke-width:2px, font-weight:bold
+  
+  style E1F2 fill:#FFFFFF, shape:box, stroke:#FFFFFF, stroke-width:2px, font-weight:bold
+  style E2F2 fill:#FFFFFF, shape:box, stroke:#FFFFFF, stroke-width:2px, font-weight:bold
+  style F3 fill:#FFFFFF, shape:box, stroke:#FFFFFF, stroke-width:2px, font-weight:bold
+  style F4 fill:#FFFFFF, shape:box, stroke:#FFFFFF, stroke-width:2px, font-weight:bold
+  style F5 fill:#FFFFFF, shape:box, stroke:#FFFFFF, stroke-width:2px, font-weight:bold
+  
+  
+  style G1 fill:#BAEFD1, shape:box, stroke:#27AE61, stroke-width:2px, font-weight:bold
+  style G2 fill:#FBE3BB, shape:box, stroke:#F39C11, stroke-width:2px, font-weight:bold
+  style G3 fill:#BAEFD1, shape:box, stroke:#27AE61, stroke-width:2px, font-weight:bold
+  style G4 fill:#FBE3BB, shape:box, stroke:#F39C11, stroke-width:2px, font-weight:bold
+  style G5 fill:#BAEFD1, shape:box, stroke:#27AE61, stroke-width:2px, font-weight:bold
+  
+  style G6 fill:#BAEFD1, shape:box, stroke:#27AE61, stroke-width:2px, font-weight:bold
+  style G7 fill:#BAEFD1, shape:box, stroke:#F39C11, stroke-width:2px, font-weight:bold
+  style G8 fill:#FBE3BB, shape:box, stroke:#F39C11, stroke-width:2px, font-weight:bold
+  style G9 fill:#BAEFD1, shape:box, stroke:#27AE61, stroke-width:2px, font-weight:bold
+  style G10 fill:#FBE3BB, shape:box, stroke:#F39C11, stroke-width:2px, font-weight:bold
+
+  style G11 fill:#BAEFD1, shape:box, stroke:#FFFFFF, stroke-width:2px, font-weight:bold
+  style G12 fill:#BAEFD1, shape:box, stroke:#FFFFFF, stroke-width:2px, font-weight:bold
+  
+  style G13 fill:#FBEEBA, shape:box, stroke:#FFFFFF, stroke-width:2px, font-weight:bold
+  style G14 fill:#FBEEBA, shape:box, stroke:#FFFFFF, stroke-width:2px, font-weight:bold
+  
+  style G15 fill:#FBEEBA, shape:box, stroke:#FFFFFF, stroke-width:2px, font-weight:bold
+  style G16 fill:#FBE3BB, shape:box, stroke:#FFFFFF, stroke-width:2px, font-weight:bold
+  style G17 fill:#BAEFD1, shape:box, stroke:#FFFFFF, stroke-width:2px, font-weight:bold
+  style G18 fill:#BAEFD1, shape:box, stroke:#FFFFFF, stroke-width:2px, font-weight:bold
+  style G19 fill:#BAEFD1, shape:box, stroke:#FFFFFF, stroke-width:2px, font-weight:bold
+  style G20 fill:#FBEEBA, shape:box, stroke:#FFFFFF, stroke-width:2px, font-weight:bold
+
+  click G1 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"
+  click G2 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"
+  click G3 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"
+  click G4 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"
+  click G5 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"
+  click G6 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"
+  click G7 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"
+  click G8 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"
+  click G9 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"
+  click G10 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"
+  click G11 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"
+  click G12 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"
+  click G13 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"
+  click G14 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"
+  click G15 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"
+  click G16 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"
+  click G17 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"
+  click G18 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"
+  click G19 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"
+  click G20 "https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/unterschiede/zentral/ttestunabh.html" "Follow the Link [UZH - Methodenberatung]"  
+')
+
+  # Rahmen der tree Nodes dunkelblau stroke:#2D3E50
+  # Hintergrund der tree Nodes grau fill:#ECF0F1
+  
+  # Normalverteilung grün stroke:#27AE61
+  # Verteilungsfrei orange stroke:#F39C11
+
+  # (abhängige) Variable nominalskaliert gelb fill:#FBEEBA
+  # (abhängige) Variable ordinalskaliert orange fill:#FBE3BB
+  # (abhängige) Variable intervallskaliert grün fill:#BAEFD1
+  # (abhängige) Variable in versch. Skalierung fill:#2D3E50
+
+
+
+```
+
