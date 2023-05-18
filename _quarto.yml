@@ -43,8 +43,8 @@ website:
             href: analysis.qmd
       - text: Methods
         menu:
-          - text: Entscheidungsbaum [DE]
-            href: methods.qmd
+          - text: Dependenzanalyse [DE]
+            href: dependencyanalysis.qmd
     right:
       - text: Ressources
         menu:

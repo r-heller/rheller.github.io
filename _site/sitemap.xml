@@ -166,7 +166,7 @@
   </url>
   <url>
     <loc>https://www.r-heller.com/methods.html</loc>
-    <lastmod>2023-05-18T15:18:44.394Z</lastmod>
+    <lastmod>2023-05-18T15:23:30.696Z</lastmod>
   </url>
   <url>
     <loc>https://www.r-heller.com/posts.html</loc>
@@ -239,5 +239,9 @@
   <url>
     <loc>https://www.r-heller.com/privacy_policy_en.html</loc>
     <lastmod>2023-05-18T15:18:54.889Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/dependencyanalysis.html</loc>
+    <lastmod>2023-05-18T15:26:36.434Z</lastmod>
   </url>
 </urlset>

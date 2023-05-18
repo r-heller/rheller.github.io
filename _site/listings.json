@@ -52,5 +52,13 @@
       "/about/welcome/index.html",
       "/about/new-post/new_post.html"
     ]
+  },
+  {
+    "listing": "/dependencyanalysis.html",
+    "items": [
+      "/dependencyanalysis/post-with-code/index.html",
+      "/dependencyanalysis/welcome/index.html",
+      "/dependencyanalysis/new-post/new_post.html"
+    ]
   }
 ]

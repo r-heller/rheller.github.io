@@ -3,7 +3,7 @@
     "path": "~/GitHub/r-heller.github.io/publications.qmd",
     "project_path": "publications.qmd",
     "type": "quarto_markdown",
-    "hash": "1798391521",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1684423033983.0,
@@ -17,7 +17,7 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "26:0",
-        "cursorPosition": "13,15",
+        "cursorPosition": "6,18",
         "scrollLine": "0"
     },
     "folds": "",

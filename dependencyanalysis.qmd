@@ -1,7 +1,7 @@
 ---
-title: Entscheidungsbaum
+title: Dependenz Analyse
 listing:
-  contents: methods/**/*.qmd
+  contents: dependencyanalysis/**/*.qmd
   sort: "date desc"
   type: default
   categories: true

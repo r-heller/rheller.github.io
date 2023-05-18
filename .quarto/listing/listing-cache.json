@@ -31,6 +31,10 @@
     "404.qmd": [
       "posts",
       "presentations"
+    ],
+    "dependencyanalysis.qmd": [
+      "methods/**/*.qmd",
+      "dependencyanalysis/**/*.qmd"
     ]
   }
 }
