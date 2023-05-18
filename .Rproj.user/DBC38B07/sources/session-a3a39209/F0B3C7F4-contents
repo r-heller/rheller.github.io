@@ -84,5 +84,5 @@ format:
       dark: darkly
     css: customstyle.css 
     toc: true
-
-    
+    include-in-header: gtm_code_head.html
+    include-before-body: gtm_code_body.html
