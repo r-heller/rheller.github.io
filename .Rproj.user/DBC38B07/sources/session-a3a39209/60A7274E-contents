@@ -30,7 +30,10 @@ page-layout: article
 
 format:
   html:
+    include-in-header: ../gtm_code_head.html
+    include-before-body: ../gtm_code_body.html
     include-after-body: ../footer.html
+    
 
 # comments:
 #   utterances:

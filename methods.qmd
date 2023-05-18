@@ -1,4 +1,5 @@
 ---
+title: Entscheidungsbaum
 listing:
   contents: methods/**/*.qmd
   sort: "date desc"
