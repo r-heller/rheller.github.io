@@ -166,7 +166,7 @@
   </url>
   <url>
     <loc>https://www.r-heller.com/methods.html</loc>
-    <lastmod>2023-05-17T11:59:47.208Z</lastmod>
+    <lastmod>2023-05-18T07:18:42.945Z</lastmod>
   </url>
   <url>
     <loc>https://www.r-heller.com/posts.html</loc>
@@ -203,5 +203,9 @@
   <url>
     <loc>https://www.r-heller.com/analysis/new-post/new_post.html</loc>
     <lastmod>2023-05-16T16:38:09.140Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/methods/post-with-code/index.html</loc>
+    <lastmod>2023-05-17T14:57:32.022Z</lastmod>
   </url>
 </urlset>
