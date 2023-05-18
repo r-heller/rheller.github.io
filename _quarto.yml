@@ -74,9 +74,15 @@ website:
             href: privacy_policy_en.qmd
       - icon: github
         href: https://github.com/r-heller
-  cookie-consent: true
-  google-analytics: "G-7T94VJMY2C"
-    - tracking-id: 
+  cookie-consent:
+    type: implied
+    style: headline
+    palette: light
+    policy-url: "https://r-heller.com/cookies_policy_en.html"
+    prefs-text: "Review cookie preferences"
+  google-analytics:
+    tracking-id: "G-7T94VJMY2C"
+    storage: cookies # none
   search: true
   page-footer:
     left: |
