@@ -17,6 +17,14 @@
   <dc:creator>R. Heller</dc:creator>
   <link>https://www.r-heller.com/publications/template/index.html</link>
   <description><![CDATA[ 
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7T94VJMY2C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-7T94VJMY2C');
+</script>
 
 <div class="cell">
 <div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1">lorem<span class="sc" style="color: #5E5E5E;
