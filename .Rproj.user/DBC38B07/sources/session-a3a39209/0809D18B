@@ -3,7 +3,7 @@
     "path": "~/GitHub/r-heller.github.io/methods.qmd",
     "project_path": "methods.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2417175823",
     "contents": "",
     "dirty": false,
     "created": 1684324606589.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "3223:3273.33349609375",
-        "cursorPosition": "15,0",
+        "cursorPosition": "11,24",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684335436,
+    "lastKnownWriteTime": 1684400336,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684335436412,
+    "last_content_update": 1684400336838,
     "read_only": false,
     "read_only_alternatives": []
 }

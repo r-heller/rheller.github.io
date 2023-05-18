@@ -1,22 +1,33 @@
 # Options specified here will apply to all posts in this folder
 
 # freeze computational output
-freeze: true
+freeze: auto
 
 # Enable banner style title blocks
-title-block-banner: true
+title-block-banner: false
 
-# Author name of all blog posts
-author: 'R. Heller'
+# Default author
+author:
+  - name: R. Heller
+    url: https://www.r-heller.com
+
+# Default fields for citation
+# citation: true
 
 # Table of content settings
 toc: true
+toc-title: Table of contents
+toc-location: left
 toc-depth: 3
 
+# Default knitr options
+execute:
+  echo: true
+  message: true
+  warning: true
+  
 page-layout: article
 
-#########################
-# You can skip this part in the first step
 format:
   html:
     include-after-body: ../footer.html
@@ -24,7 +35,7 @@ format:
 # comments:
 #   utterances:
 #     repo:  r-heller/blogComments
-#########################
+
 
 website:
   cookie-consent: true
@@ -39,3 +50,4 @@ website:
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
       Inspiration and code snippets taken from [A. Handel](https://www.andreashandel.com/) and [A. Rapp](https://albert-rapp.de/)<br>
       [Source at {{< fa brands github >}} GitHub](https://github.com/r-heller/r-heller.github.io)
+      

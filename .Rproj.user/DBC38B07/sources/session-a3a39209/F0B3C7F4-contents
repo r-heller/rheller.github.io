@@ -20,6 +20,9 @@ execute:
 
 description-meta: "R. Heller's personal website."
 
+# Enable banner style title blocks
+title-block-banner: true
+
 website:
   title: "R. Heller" 
   site-url: https://www.r-heller.com
@@ -59,9 +62,9 @@ website:
       - text: Impressum
         menu:
           - text: DE
-            href: impressum.qmd
+            href: impressum_de.qmd
           - text: EN
-            href: impressum.qmd
+            href: impressum_en.qmd
       - icon: github
         href: https://github.com/r-heller
   cookie-consent: true

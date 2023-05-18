@@ -94,5 +94,11 @@
   },
   "publications/template/index.qmd": {
     "index.html": "bedc816d"
+  },
+  "impressum_en.qmd": {
+    "impressum_en.html": "21b4cd0f"
+  },
+  "impressum_de.qmd": {
+    "impressum_de.html": "e0324221"
   }
 }
