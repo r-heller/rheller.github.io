@@ -75,7 +75,7 @@ website:
             href: privacy_policy_en.qmd
       - icon: github
         href: https://github.com/r-heller
-  cookie-consent: true
+  # cookie-consent: true
   search: true
   page-footer:
     left: |
@@ -97,3 +97,4 @@ format:
     toc: true
     include-in-header: gtm_code_head.html
     include-before-body: gtm_code_body.html
+    include-after-body: cookie_consent.html
