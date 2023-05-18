@@ -8,7 +8,7 @@
 
 <meta name="description" content="R. Heller’s personal website.">
 
-<title>R. Heller – archive</title>
+<title>R. Heller - Archive</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -122,14 +122,15 @@ cookieconsent.run({
 });
 </script> 
   
-<!-- Google tag (gtag.js) -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7T94VJMY2C"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-7T94VJMY2C');
+<script type="text/javascript">
+(function(window, document, dataLayerName, id) {
+window[dataLayerName]=window[dataLayerName]||[],window[dataLayerName].push({start:(new Date).getTime(),event:"stg.start"});var scripts=document.getElementsByTagName('script')[0],tags=document.createElement('script');
+function stgCreateCookie(a,b,c){var d="";if(c){var e=new Date;e.setTime(e.getTime()+24*c*60*60*1e3),d="; expires="+e.toUTCString()}document.cookie=a+"="+b+d+"; path=/"}
+var isStgDebug=(window.location.href.match("stg_debug")||document.cookie.match("stg_debug"))&&!window.location.href.match("stg_disable_debug");stgCreateCookie("stg_debug",isStgDebug?1:"",isStgDebug?14:-1);
+var qP=[];dataLayerName!=="dataLayer"&&qP.push("data_layer_name="+dataLayerName),isStgDebug&&qP.push("stg_debug");var qPString=qP.length>0?("?"+qP.join("&")):"";
+tags.async=!0,tags.src="https://r-heller.containers.piwik.pro/"+id+".js"+qPString,scripts.parentNode.insertBefore(tags,scripts);
+!function(a,n,i){a[n]=a[n]||{};for(var c=0;c<i.length;c++)!function(i){a[n][i]=a[n][i]||{},a[n][i].api=a[n][i].api||function(){var a=[].slice.call(arguments,0);"string"==typeof a[0]&&window[dataLayerName].push({event:n+"."+i+":"+a[0],parameters:[].slice.call(arguments,1)})}}(i[c])}(window,"ppms",["tm","cm"]);
+})(window, document, 'dataLayer', '260cdace-4b65-4b6f-aa74-80885ee32dc8');
 </script>
 
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
@@ -162,14 +163,32 @@ cookieconsent.run({
     <a class="nav-link" href="./about.html" rel="" target="">
  <span class="menu-text">About</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./posts.html" rel="" target="">
- <span class="menu-text">Posts</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-posts" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Posts</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-posts">    
+        <li>
+    <a class="dropdown-item" href="./posts.html" rel="" target="">
+ <span class="dropdown-text">Biomedicine</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./methods.html" rel="" target="">
- <span class="menu-text">Methods</span></a>
+        <li>
+    <a class="dropdown-item" href="./analysis.html" rel="" target="">
+ <span class="dropdown-text">Data analysis</span></a>
   </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-methods" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Methods</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-methods">    
+        <li>
+    <a class="dropdown-item" href="./methods.html" rel="" target="">
+ <span class="dropdown-text">Entscheidungsbaum [DE]</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item dropdown ">
@@ -200,17 +219,33 @@ cookieconsent.run({
  <span class="menu-text">Archive</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-impressum" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
- <span class="menu-text">Impressum</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-legal-deen" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Legal [DE/EN]</span>
     </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-impressum">    
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-legal-deen">    
         <li>
     <a class="dropdown-item" href="./impressum_de.html" rel="" target="">
- <span class="dropdown-text">DE</span></a>
+ <span class="dropdown-text">Impressum [DE]</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./cookies_policy_de.html" rel="" target="">
+ <span class="dropdown-text">Cookies [DE]</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./privacy_policy_de.html" rel="" target="">
+ <span class="dropdown-text">Datenschutzerklärung [DE]</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./impressum_en.html" rel="" target="">
- <span class="dropdown-text">EN</span></a>
+ <span class="dropdown-text">Legal notice [EN]</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./cookies_policy_en.html" rel="" target="">
+ <span class="dropdown-text">Cookies policy [EN]</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./privacy_policy_en.html" rel="" target="">
+ <span class="dropdown-text">Privacy policy [EN]</span></a>
   </li>  
     </ul>
   </li>
@@ -236,17 +271,38 @@ cookieconsent.run({
     <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="123">123 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Second Tag">Second Tag <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
-<!-- Google tag (gtag.js) -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7T94VJMY2C"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<!-- Privacy Consent by TermsFeed (https://www.termsfeed.com) -->
+<script type="text/javascript" src="https://cdn.termsfeedtag.com/plugins/pc/v1/3564ecdb075541d6ba8ed3b087f3bebe/plugin.js" async=""></script>
+<!-- End Privacy Consent by TermsFeed (https://www.termsfeed.com) -->
 
-  gtag('config', 'G-7T94VJMY2C');
+
+<script type="text/javascript">
+(function(window, document, dataLayerName, id) {
+window[dataLayerName]=window[dataLayerName]||[],window[dataLayerName].push({start:(new Date).getTime(),event:"stg.start"});var scripts=document.getElementsByTagName('script')[0],tags=document.createElement('script');
+function stgCreateCookie(a,b,c){var d="";if(c){var e=new Date;e.setTime(e.getTime()+24*c*60*60*1e3),d="; expires="+e.toUTCString()}document.cookie=a+"="+b+d+"; path=/"}
+var isStgDebug=(window.location.href.match("stg_debug")||document.cookie.match("stg_debug"))&&!window.location.href.match("stg_disable_debug");stgCreateCookie("stg_debug",isStgDebug?1:"",isStgDebug?14:-1);
+var qP=[];dataLayerName!=="dataLayer"&&qP.push("data_layer_name="+dataLayerName),isStgDebug&&qP.push("stg_debug");var qPString=qP.length>0?("?"+qP.join("&")):"";
+tags.async=!0,tags.src="https://r-heller.containers.piwik.pro/"+id+".js"+qPString,scripts.parentNode.insertBefore(tags,scripts);
+!function(a,n,i){a[n]=a[n]||{};for(var c=0;c<i.length;c++)!function(i){a[n][i]=a[n][i]||{},a[n][i].api=a[n][i].api||function(){var a=[].slice.call(arguments,0);"string"==typeof a[0]&&window[dataLayerName].push({event:n+"."+i+":"+a[0],parameters:[].slice.call(arguments,1)})}}(i[c])}(window,"ppms",["tm","cm"]);
+})(window, document, 'dataLayer', '260cdace-4b65-4b6f-aa74-80885ee32dc8');
 </script>
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Archive</h1>
+</div>
 
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
 
 
 
@@ -316,6 +372,7 @@ Jun 1, 2022
 No matching items
 </div>
 </div></main> <!-- /main -->
+
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
