@@ -15,6 +15,7 @@ toc-depth: 3
 
 page-layout: article
 
+# You can skip this part in the first step
 format:
   html:
     include-in-header: ../gtm_code_head.html

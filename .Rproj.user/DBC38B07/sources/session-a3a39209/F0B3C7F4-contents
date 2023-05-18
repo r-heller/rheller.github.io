@@ -29,7 +29,6 @@ website:
   repo-url: https://github.com/r-heller/r-heller.github.io
   description: "Website of R. Heller"
   favicon: /files/icon.png
-  google-analytics: "G-7T94VJMY2C"
   navbar:
     background: "#2D3E50"
     logo: /files/logo.png
@@ -76,6 +75,8 @@ website:
       - icon: github
         href: https://github.com/r-heller
   cookie-consent: true
+  google-analytics: "G-7T94VJMY2C"
+    - tracking-id: 
   search: true
   page-footer:
     left: |

@@ -10,5 +10,5 @@ listing:
   fields: [date, title, reading-time, description, categories]
   feed: true
 page-layout: full
-title-block-banner: false
+title-block-banner: true
 ---
