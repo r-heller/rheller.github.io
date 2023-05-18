@@ -59,7 +59,7 @@ website:
         href: publications.qmd
       - text: Archive
         href: archive.qmd 
-      - text: Legal
+      - text: Legal [DE/EN]
         menu:
           - text: Impressum [DE]
             href: impressum_de.qmd
