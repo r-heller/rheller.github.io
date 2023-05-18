@@ -3,24 +3,24 @@
     "path": "~/GitHub/r-heller.github.io/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "1768125236",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1684171276545.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "45,0",
-        "scrollLine": "13"
+        "cursorPosition": "46,40",
+        "scrollLine": "21"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684400645,
+    "lastKnownWriteTime": 1684401619,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684400677145,
+    "last_content_update": 1684401619858,
     "read_only": false,
     "read_only_alternatives": []
 }

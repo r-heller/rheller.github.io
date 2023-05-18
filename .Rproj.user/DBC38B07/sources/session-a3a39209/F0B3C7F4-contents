@@ -44,7 +44,7 @@ website:
             href: analysis.qmd
       - text: Methods
         menu:
-          - text: Entscheidungsbaum
+          - text: Entscheidungsbaum [DE]
             href: methods.qmd
     right:
       - text: Ressources

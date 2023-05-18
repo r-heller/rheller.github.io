@@ -37,16 +37,14 @@ website:
       - text: About
         href: about.qmd 
       - text: Posts
-        href: posts.qmd 
         menu:
           - text: Biomedicine
             href: posts.qmd 
           - text: Data analysis
             href: analysis.qmd
       - text: Methods
-        href: methods.qmd
         menu:
-          - text: Entscheidungsbaum
+          - text: Entscheidungsbaum [DE]
             href: methods.qmd
     right:
       - text: Ressources
