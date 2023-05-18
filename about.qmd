@@ -1,5 +1,5 @@
 ---
-title: "R. Heller - Brief professional bio"
+title: "Short bio"
 comments: false
 ---
 
