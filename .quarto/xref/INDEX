@@ -100,5 +100,23 @@
   },
   "impressum_de.qmd": {
     "impressum_de.html": "e0324221"
+  },
+  "cookies_policy.qmd": {
+    "cookies_policy.html": "034b6dce"
+  },
+  "privacy_policy.qmd": {
+    "privacy_policy.html": "51d14e69"
+  },
+  "privacy_policy_de.qmd": {
+    "privacy_policy_de.html": "6e6407cf"
+  },
+  "cookies_policy_de.qmd": {
+    "cookies_policy_de.html": "24cbce2e"
+  },
+  "cookies_policy_en.qmd": {
+    "cookies_policy_en.html": "810b37dd"
+  },
+  "privacy_policy_en.qmd": {
+    "privacy_policy_en.html": "6b4a9876"
   }
 }

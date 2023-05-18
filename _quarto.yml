@@ -59,12 +59,20 @@ website:
         href: publications.qmd
       - text: Archive
         href: archive.qmd 
-      - text: Impressum
+      - text: Legal
         menu:
-          - text: DE
+          - text: Impressum [DE]
             href: impressum_de.qmd
-          - text: EN
+          - text: Cookies [DE]
+            href: cookies_policy_de.qmd
+          - text: Datenschutzerklärung [DE]
+            href: privacy_policy_de.qmd
+          - text: Legal notice [EN]
             href: impressum_en.qmd
+          - text: Cookies policy [EN]
+            href: cookies_policy_en.qmd
+          - text: Privacy policy [EN]
+            href: privacy_policy_en.qmd
       - icon: github
         href: https://github.com/r-heller
   cookie-consent: true
