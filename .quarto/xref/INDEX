@@ -121,5 +121,14 @@
   },
   "dependencyanalysis.qmd": {
     "dependencyanalysis.html": "8f95bbd3"
+  },
+  "dependencyanalysis/new-post/new_post.qmd": {
+    "new_post.html": "147adfd3"
+  },
+  "dependencyanalysis/post-with-code/index.qmd": {
+    "index.html": "c0faffe4"
+  },
+  "dependencyanalysis/welcome/index.qmd": {
+    "index.html": "4e1516ad"
   }
 }

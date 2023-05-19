@@ -64,14 +64,14 @@ website:
             href: impressum_de.qmd
           # - text: Cookies [DE]
           #   href: cookies_policy_de.qmd
-          # - text: Datenschutzerklärung [DE]
-          #   href: privacy_policy_de.qmd
+          - text: Datenschutzerklärung [DE]
+            href: privacy_policy_de.qmd
           - text: Legal notice [EN]
             href: impressum_en.qmd
           # - text: Cookies policy [EN]
           #   href: cookies_policy_en.qmd
-          # - text: Privacy policy [EN]
-          #   href: privacy_policy_en.qmd
+          - text: Privacy policy [EN]
+            href: privacy_policy_en.qmd
       - icon: github
         href: https://github.com/r-heller
   cookie-consent:
@@ -79,7 +79,7 @@ website:
     style: headline
     palette: light
     policy-url: "https://r-heller.com/cookies_policy_en.html"
-    prefs-text: "Review cookie preferences"
+    prefs-text: "Cookie preferences"
   google-analytics:
     tracking-id: "G-7T94VJMY2C"
     storage: cookies # none
