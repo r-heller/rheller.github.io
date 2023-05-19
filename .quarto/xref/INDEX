@@ -130,5 +130,29 @@
   },
   "dependencyanalysis/welcome/index.qmd": {
     "index.html": "4e1516ad"
+  },
+  "differences.qmd": {
+    "differences.html": "d2f6085f"
+  },
+  "correlations.qmd": {
+    "correlations.html": "af2d5b3f"
+  },
+  "dependencyanalysis/correlations/new-post/new_post.qmd": {
+    "new_post.html": "215615de"
+  },
+  "dependencyanalysis/correlations/post-with-code/index.qmd": {
+    "index.html": "58784a28"
+  },
+  "dependencyanalysis/correlations/welcome/index.qmd": {
+    "index.html": "48eba50b"
+  },
+  "dependencyanalysis/differences/new-post/new_post.qmd": {
+    "new_post.html": "e5f8eda6"
+  },
+  "dependencyanalysis/differences/post-with-code/index.qmd": {
+    "index.html": "d8518ac7"
+  },
+  "dependencyanalysis/differences/welcome/index.qmd": {
+    "index.html": "2f08312c"
   }
 }

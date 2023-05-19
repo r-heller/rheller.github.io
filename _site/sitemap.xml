@@ -214,7 +214,7 @@
   </url>
   <url>
     <loc>https://www.r-heller.com/impressum_de.html</loc>
-    <lastmod>2023-05-19T19:24:47.016Z</lastmod>
+    <lastmod>2023-05-19T19:57:31.465Z</lastmod>
   </url>
   <url>
     <loc>https://www.r-heller.com/cookies_policy.html</loc>
@@ -242,7 +242,7 @@
   </url>
   <url>
     <loc>https://www.r-heller.com/dependencyanalysis.html</loc>
-    <lastmod>2023-05-19T19:28:55.506Z</lastmod>
+    <lastmod>2023-05-19T19:58:42.958Z</lastmod>
   </url>
   <url>
     <loc>https://www.r-heller.com/dependencyanalysis/new-post/new_post.html</loc>
@@ -255,5 +255,37 @@
   <url>
     <loc>https://www.r-heller.com/dependencyanalysis/welcome/index.html</loc>
     <lastmod>2023-05-19T19:12:08.725Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/differences.html</loc>
+    <lastmod>2023-05-19T19:58:31.299Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/correlations.html</loc>
+    <lastmod>2023-05-19T19:58:38.472Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/dependencyanalysis/correlations/new-post/new_post.html</loc>
+    <lastmod>2023-05-19T19:57:21.341Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/dependencyanalysis/correlations/post-with-code/index.html</loc>
+    <lastmod>2023-05-19T19:57:24.365Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/dependencyanalysis/correlations/welcome/index.html</loc>
+    <lastmod>2023-05-19T19:57:25.301Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/dependencyanalysis/differences/new-post/new_post.html</loc>
+    <lastmod>2023-05-19T19:57:29.409Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/dependencyanalysis/differences/post-with-code/index.html</loc>
+    <lastmod>2023-05-19T19:57:30.736Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/dependencyanalysis/differences/welcome/index.html</loc>
+    <lastmod>2023-05-19T19:57:31.092Z</lastmod>
   </url>
 </urlset>

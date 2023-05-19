@@ -56,9 +56,31 @@
   {
     "listing": "/dependencyanalysis.html",
     "items": [
+      "/dependencyanalysis/correlations/post-with-code/index.html",
+      "/dependencyanalysis/differences/post-with-code/index.html",
       "/dependencyanalysis/post-with-code/index.html",
+      "/dependencyanalysis/correlations/welcome/index.html",
+      "/dependencyanalysis/differences/welcome/index.html",
       "/dependencyanalysis/welcome/index.html",
+      "/dependencyanalysis/correlations/new-post/new_post.html",
+      "/dependencyanalysis/differences/new-post/new_post.html",
       "/dependencyanalysis/new-post/new_post.html"
+    ]
+  },
+  {
+    "listing": "/differences.html",
+    "items": [
+      "/dependencyanalysis/differences/post-with-code/index.html",
+      "/dependencyanalysis/differences/welcome/index.html",
+      "/dependencyanalysis/differences/new-post/new_post.html"
+    ]
+  },
+  {
+    "listing": "/correlations.html",
+    "items": [
+      "/dependencyanalysis/correlations/post-with-code/index.html",
+      "/dependencyanalysis/correlations/welcome/index.html",
+      "/dependencyanalysis/correlations/new-post/new_post.html"
     ]
   }
 ]

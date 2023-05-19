@@ -35,6 +35,13 @@
     "dependencyanalysis.qmd": [
       "methods/**/*.qmd",
       "dependencyanalysis/**/*.qmd"
+    ],
+    "differences.qmd": [
+      "dependencyanalysis/differences"
+    ],
+    "correlations.qmd": [
+      "dependencyanalysis/**/*.qmd",
+      "dependencyanalysis/correlations"
     ]
   }
 }
