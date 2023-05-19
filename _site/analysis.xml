@@ -16,6 +16,19 @@
   <dc:creator>Harlow Malloc</dc:creator>
   <link>https://www.r-heller.com/analysis/post-with-code/index.html</link>
   <description><![CDATA[ 
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7T94VJMY2C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7T94VJMY2C');
+</script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNC3GJG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 
 
@@ -48,6 +61,19 @@ font-style: inherit;">1</span></span></code></pre></div>
   <dc:creator>Tristan O&#39;Malley</dc:creator>
   <link>https://www.r-heller.com/analysis/welcome/index.html</link>
   <description><![CDATA[ 
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7T94VJMY2C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7T94VJMY2C');
+</script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNC3GJG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 
 
@@ -67,6 +93,19 @@ font-style: inherit;">1</span></span></code></pre></div>
   <dc:creator>Harlow Malloc</dc:creator>
   <link>https://www.r-heller.com/analysis/new-post/new_post.html</link>
   <description><![CDATA[ 
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7T94VJMY2C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7T94VJMY2C');
+</script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNC3GJG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 
 
