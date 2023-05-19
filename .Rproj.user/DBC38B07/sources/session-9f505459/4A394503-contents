@@ -11,28 +11,30 @@ listing:
   feed: true
 page-layout: full
 title-block-banner: true
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-:::: {.columns}
+Der nachfolgende Entscheidungsbaum visualisert eine Auswahl der
+gängigsten Verfahren der Dependenzanalytik. Es wird zwischen der Analyse
+von [Zusammenhängen](correlations.html) und [Unterschieden](differences.html) differenziert.
 
-::: {.column width="50%"}
-# Serie I
+Die farbliche Markierung des Hintergrundes zigt die Skalierung der
+Abhängigen Variable an:
 
-##### [Unterschiede](differences.html)
-This series contains a great deal of tips, tricks and packages 
-that you can use to level up your ggplot game.
-:::
+-   Nominalskalierung [**■**]{style="color:#FBEEBA"}
 
-::: {.column width="50%"}
-# Serie II
+-   Ordinalskalierung [**■**]{style="color:#FBE3BB"}
 
-##### [Zusammenhänge](correlations.html)
-This series contains a great deal of tips, tricks and packages 
-that you can use to level up your ggplot game.
+-   Intervallskalierung [**■**]{style="color:#BAEFD1"}
 
-:::
+Die Farben der Ränder ergeben sich aus der Vorraussetzung der
+Datenverteilung:
 
-:::: 
+-   Normalverteilung [**☐**]{style="color:#27AE61}
+
+-   Verteilungsfreiheit [**☐**]{style="color:#F39C11"}
 
 
 ```{r echo=FALSE}
@@ -193,3 +195,20 @@ graph TB
 
 ```
 
+<!-- ::: columns -->
+<!-- ::: {.column width="50%"} -->
+<!-- # Serie I -->
+
+<!-- ##### [Unterschiede](differences.html) -->
+
+<!-- Testverfahren auf (Gruppen-) Unterschiede. -->
+<!-- ::: -->
+
+<!-- ::: {.column width="50%"} -->
+<!-- # Serie II -->
+
+<!-- ##### [Zusammenhänge](correlations.html) -->
+
+<!-- Testverfahren der Zusammenhangsanalyse. -->
+<!-- ::: -->
+<!-- ::: -->
