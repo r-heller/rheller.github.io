@@ -18,7 +18,8 @@ editor:
 
 Der nachfolgende Entscheidungsbaum visualisert eine Auswahl der
 gängigsten Verfahren der Dependenzanalytik. Es wird zwischen der Analyse
-von [Zusammenhängen](correlations.html) und [Unterschieden](differences.html) differenziert.
+von [Zusammenhängen](correlations.html) und
+[Unterschieden](differences.html) differenziert.
 
 Die farbliche Markierung des Hintergrundes zigt die Skalierung der
 Abhängigen Variable an:
@@ -32,10 +33,9 @@ Abhängigen Variable an:
 Die Farben der Ränder ergeben sich aus der Vorraussetzung der
 Datenverteilung:
 
--   Normalverteilung [**☐**]{style="color:#27AE61}
+-   Normalverteilung [**☐**]{style="\"color:#27AE61"}
 
 -   Verteilungsfreiheit [**☐**]{style="color:#F39C11"}
-
 
 ```{r echo=FALSE}
 DiagrammeR::mermaid('
@@ -196,19 +196,25 @@ graph TB
 ```
 
 <!-- ::: columns -->
+
 <!-- ::: {.column width="50%"} -->
+
 <!-- # Serie I -->
 
 <!-- ##### [Unterschiede](differences.html) -->
 
 <!-- Testverfahren auf (Gruppen-) Unterschiede. -->
+
 <!-- ::: -->
 
 <!-- ::: {.column width="50%"} -->
+
 <!-- # Serie II -->
 
 <!-- ##### [Zusammenhänge](correlations.html) -->
 
 <!-- Testverfahren der Zusammenhangsanalyse. -->
+
 <!-- ::: -->
+
 <!-- ::: -->

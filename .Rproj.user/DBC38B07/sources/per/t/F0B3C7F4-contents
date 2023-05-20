@@ -74,6 +74,8 @@ website:
             href: privacy_policy_en.qmd
       - icon: github
         href: https://github.com/r-heller
+      - icon: rss
+        href: blog.xml
   cookie-consent:
     type: implied
     style: headline
