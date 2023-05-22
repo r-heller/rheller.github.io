@@ -9,3 +9,5 @@
 [1,"\n"]
 [1,"Watching files for changes\nBrowse at http://localhost:4321/dependencyanalysis.html\n"]
 [1,"GET: /dependencyanalysis.html\n"]
+[1,"  /files/logo.png (404: Not Found)\n"]
+[1,"  /files/icon.png (404: Not Found)\n"]
