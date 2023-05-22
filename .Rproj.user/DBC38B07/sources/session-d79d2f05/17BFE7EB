@@ -3,7 +3,7 @@
     "path": "~/GitHub/r-heller.github.io/dependencyanalysis.qmd",
     "project_path": "dependencyanalysis.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3300789746",
     "contents": "",
     "dirty": false,
     "created": 1684589151988.0,
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "35,44",
-        "scrollLine": "0",
+        "cursorPosition": "32,45",
+        "scrollLine": "17",
         "rmdVisualMode": "false",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "2:348.1481628417969",
@@ -21,11 +21,11 @@
         "docOutlineVisible": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684589260,
+    "lastKnownWriteTime": 1684739272,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684589260705,
+    "last_content_update": 1684739272450,
     "read_only": false,
     "read_only_alternatives": []
 }

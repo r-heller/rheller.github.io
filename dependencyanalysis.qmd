@@ -21,7 +21,7 @@ gängigsten Verfahren der Dependenzanalytik. Es wird zwischen der Analyse
 von [Zusammenhängen](correlations.html) und
 [Unterschieden](differences.html) differenziert.
 
-Die farbliche Markierung des Hintergrundes zigt die Skalierung der
+Die farbliche Markierung des Hintergrundes zeigt die Skalierung der
 Abhängigen Variable an:
 
 -   Nominalskalierung [**■**]{style="color:#FBEEBA"}
@@ -30,7 +30,7 @@ Abhängigen Variable an:
 
 -   Intervallskalierung [**■**]{style="color:#BAEFD1"}
 
-Die Farben der Ränder ergeben sich aus der Vorraussetzung der
+Die Farben der Ränder ergeben sich aus der Voraussetzung der
 Datenverteilung:
 
 -   Normalverteilung [**☐**]{style="\"color:#27AE61"}
