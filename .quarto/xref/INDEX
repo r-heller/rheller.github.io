@@ -157,5 +157,8 @@
   },
   "publications/heller2021/publication.qmd": {
     "publication.html": "271e364d"
+  },
+  "publications/heller2021/heller2021.qmd": {
+    "heller2021.html": "e3473ebf"
   }
 }
