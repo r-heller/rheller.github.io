@@ -154,5 +154,8 @@
   },
   "dependencyanalysis/differences/welcome/index.qmd": {
     "index.html": "2f08312c"
+  },
+  "publications/heller2021/publication.qmd": {
+    "publication.html": "271e364d"
   }
 }
