@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.r-heller.com/publications/heller2021/heller2021.html</loc>
-    <lastmod>2023-06-12T11:15:15.462Z</lastmod>
+    <lastmod>2023-09-08T20:53:11.975Z</lastmod>
   </url>
   <url>
     <loc>https://www.r-heller.com/publications.html</loc>
-    <lastmod>2023-06-12T11:15:58.704Z</lastmod>
+    <lastmod>2023-09-08T20:53:11.239Z</lastmod>
   </url>
   <url>
     <loc>https://www.r-heller.com/index.html</loc>
-    <lastmod>2023-06-12T11:15:20.507Z</lastmod>
+    <lastmod>2023-09-08T20:53:14.643Z</lastmod>
   </url>
   <url>
     <loc>https://www.r-heller.com/about.html</loc>
@@ -18,27 +18,27 @@
   </url>
   <url>
     <loc>https://www.r-heller.com/posts.html</loc>
-    <lastmod>2023-06-12T11:15:27.907Z</lastmod>
+    <lastmod>2023-09-08T20:53:07.699Z</lastmod>
   </url>
   <url>
     <loc>https://www.r-heller.com/dependencyanalysis.html</loc>
-    <lastmod>2023-06-12T11:16:20.166Z</lastmod>
+    <lastmod>2023-09-08T20:53:01.286Z</lastmod>
   </url>
   <url>
     <loc>https://www.r-heller.com/impressum_de.html</loc>
-    <lastmod>2023-06-12T11:15:42.727Z</lastmod>
+    <lastmod>2023-09-08T20:53:06.707Z</lastmod>
   </url>
   <url>
     <loc>https://www.r-heller.com/privacy_policy_de.html</loc>
-    <lastmod>2023-06-12T11:15:46.544Z</lastmod>
+    <lastmod>2023-09-08T20:53:09.587Z</lastmod>
   </url>
   <url>
     <loc>https://www.r-heller.com/impressum_en.html</loc>
-    <lastmod>2023-06-12T11:15:49.768Z</lastmod>
+    <lastmod>2023-09-08T20:53:07.083Z</lastmod>
   </url>
   <url>
     <loc>https://www.r-heller.com/privacy_policy_en.html</loc>
-    <lastmod>2023-06-12T11:15:52.605Z</lastmod>
+    <lastmod>2023-09-08T20:53:09.939Z</lastmod>
   </url>
   <url>
     <loc>https://www.r-heller.com/archive.html</loc>
@@ -46,6 +46,66 @@
   </url>
   <url>
     <loc>https://www.r-heller.com/projects.html</loc>
-    <lastmod>2023-06-12T11:16:08.672Z</lastmod>
+    <lastmod>2023-09-08T20:53:10.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/dependencyanalysis/correlations/new-post/new_post.html</loc>
+    <lastmod>2023-09-08T20:53:01.958Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/dependencyanalysis/correlations/post-with-code/index.html</loc>
+    <lastmod>2023-09-08T20:53:02.450Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/dependencyanalysis/correlations/welcome/index.html</loc>
+    <lastmod>2023-09-08T20:53:02.826Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/dependencyanalysis/differences/new-post/new_post.html</loc>
+    <lastmod>2023-09-08T20:53:03.434Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/dependencyanalysis/differences/post-with-code/index.html</loc>
+    <lastmod>2023-09-08T20:53:03.982Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/dependencyanalysis/differences/welcome/index.html</loc>
+    <lastmod>2023-09-08T20:53:04.318Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/dependencyanalysis/new-post/new_post.html</loc>
+    <lastmod>2023-09-08T20:53:04.962Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/dependencyanalysis/post-with-code/index.html</loc>
+    <lastmod>2023-09-08T20:53:05.482Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/dependencyanalysis/welcome/index.html</loc>
+    <lastmod>2023-09-08T20:53:05.827Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/differences.html</loc>
+    <lastmod>2023-09-08T20:53:06.351Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/posts/new-post/new_post.html</loc>
+    <lastmod>2023-09-08T20:53:08.355Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/posts/post-with-code/index.html</loc>
+    <lastmod>2023-09-08T20:53:08.887Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/posts/welcome/index.html</loc>
+    <lastmod>2023-09-08T20:53:09.231Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/projects/template/index.html</loc>
+    <lastmod>2023-09-08T20:53:10.763Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.r-heller.com/correlations.html</loc>
+    <lastmod>2023-09-08T20:53:12.927Z</lastmod>
   </url>
 </urlset>

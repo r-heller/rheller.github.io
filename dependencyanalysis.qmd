@@ -19,7 +19,7 @@ editor:
 Der nachfolgende Entscheidungsbaum visualisert eine Auswahl der
 gängigsten Verfahren der Dependenzanalytik. Es wird zwischen der Analyse
 von [Zusammenhängen](correlations.html) und
-[Unterschieden](differences.html) differenziert.
+[Unterschieden](differences.html) differenziert. 
 
 Die farbliche Markierung des Hintergrundes zeigt die Skalierung der
 Abhängigen Variable an:
