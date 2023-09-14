@@ -26,9 +26,9 @@ about:
     - icon: orcid
       text: ORCID
       href: https://orcid.org/0000-0001-8006-9742
-    - icon: researchgate
-      text: Researchgate
-      href: https://www.researchgate.net/profile/Raban-Heller
+    # - icon: researchgate
+    #   text: Researchgate
+    #   href: https://www.researchgate.net/profile/Raban-Heller
 comments: false
 ---
 
