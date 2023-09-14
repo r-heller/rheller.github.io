@@ -82,9 +82,9 @@ website:
     palette: light
     policy-url: "https://r-heller.com/cookies_policy_en.html"
     prefs-text: "Cookie preferences"
-  # google-analytics:
-  #   tracking-id: "G-7T94VJMY2C"
-  #   storage: cookies # none
+  google-analytics:
+    tracking-id: "G-RD97XG3Q2F"
+    storage: cookies # none
   search: true
   page-footer:
     left: |
