@@ -43,7 +43,7 @@ website:
             href: analysis.qmd
       - text: Methods
         menu:
-          - text: Dependenzanalyse [DE]
+          - text: Dependencyanalysis
             href: dependencyanalysis.qmd
     right:
       - text: Ressources
@@ -58,20 +58,20 @@ website:
         href: publications.qmd
       - text: Archive
         href: archive.qmd 
-      - text: Legal [DE/EN]
+      - text: Legal
         menu:
-          - text: Impressum [DE]
+          - text: Impressum
             href: impressum_de.qmd
           # - text: Cookies [DE]
           #   href: cookies_policy_de.qmd
-          - text: Datenschutzerklärung [DE]
+          - text: Datenschutzerklärung
             href: privacy_policy_de.qmd
-          - text: Legal notice [EN]
-            href: impressum_en.qmd
+          # - text: Legal notice [EN]
+          #   href: impressum_en.qmd
           # - text: Cookies policy [EN]
           #   href: cookies_policy_en.qmd
-          - text: Privacy policy [EN]
-            href: privacy_policy_en.qmd
+          # - text: Privacy policy [EN]
+          #   href: privacy_policy_en.qmd
       - icon: github
         href: https://github.com/r-heller
       - icon: rss
