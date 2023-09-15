@@ -28,7 +28,7 @@ website:
   site-url: https://www.r-heller.com
   repo-url: https://github.com/r-heller/r-heller.github.io
   description: "Website of R. Heller"
-  favicon: /files/icon.png
+  favicon: /files/logo6.png
   navbar:
     background: "#2D3E50"
     logo: /files/logo6.png
