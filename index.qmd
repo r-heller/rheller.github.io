@@ -3,7 +3,7 @@
 about:
   id: hero-heading
   template: trestles
-  image: files/profile.jpg
+  image: files/logo5.jpg
   links:
     - icon: globe
       text: Web
