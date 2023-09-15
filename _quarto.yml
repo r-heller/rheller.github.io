@@ -31,7 +31,7 @@ website:
   favicon: /files/icon.png
   navbar:
     background: "#2D3E50"
-    logo: /files/logo.png
+    logo: /files/logo6.png
     left: 
       - text: About
         href: about.qmd 
