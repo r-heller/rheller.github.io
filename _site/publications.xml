@@ -30,17 +30,6 @@
 <!-- End Google Tag Manager (noscript) -->
 
 <img src="https://www.r-heller.com/publications/heller2021/https:/vg01.met.vgwort.de/na/4bb8751c0857439ea31b9bdeac4bcd16" width="1" height="1">
-<!-- Google tag (gtag.js) -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-RD97XG3Q2F"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-RD97XG3Q2F');
-</script>
-<section id="test" class="level2">
-<h2 data-anchor-id="test">Test</h2>
-</section>
 <section id="background" class="level2">
 <h2 data-anchor-id="background">Background</h2>
 <p>SCI is a devastating injury with profound physical and psychosocial consequences<span class="citation" data-cites="wyndaele2006a"><sup>1</sup></span>. It progresses through primary and secondary phases, with the latter characterized by intricate inflammatory responses. Monocyte-derived macrophages (MDMs) have been identified as key contributors to these inflammatory processes and tissue remodeling after SCI. The classification of macrophages into pro-inflammatory M1 and anti-inflammatory M2 subtypes has provided insights into their roles in SCI pathogenesis and recovery. Achieving a balance between pro-inflammatory and anti-inflammatory macrophages is crucial for promoting neuroprotection and tissue regeneration.</p>
