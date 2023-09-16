@@ -44,6 +44,10 @@ comments: false
 
 <!-- More research related details can be found [on my research group site](https://handelgroup.uga.edu/). Some overlap between the two sites might occur. -->
 
+\
+
+\
+
 I send out a monthly (or less frequent) 5-minute newsletter with updates on on data visualization, statistics and recent biomedical findings. Reading time: 5 minutes or less. If interested, you can subscribe here:
 
 ```{=html}
