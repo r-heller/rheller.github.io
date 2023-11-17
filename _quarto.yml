@@ -83,7 +83,7 @@ website:
     policy-url: "https://r-heller.com/privacy_policy_de.html"
     prefs-text: "Cookie preferences"
   google-analytics:
-    tracking-id: "G-RD97XG3Q2F"
+    tracking-id: "G-L54X2WDSSN"
     storage: cookies # none
   search: true
   page-footer:
