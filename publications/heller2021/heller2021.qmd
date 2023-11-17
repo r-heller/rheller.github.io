@@ -43,7 +43,7 @@ google-scholar: true
 <img loading="eager" src="https://vg01.met.vgwort.de/na/4bb8751c0857439ea31b9bdeac4bcd16" width="1" height="1"/>
 ```
 
-## Background UPDATED
+## Background
 SCI is a devastating injury with profound physical and psychosocial consequences [@wyndaele2006a]. It progresses through primary and secondary phases, with the latter characterized by intricate inflammatory responses. Monocyte-derived macrophages (MDMs) have been identified as key contributors to these inflammatory processes and tissue remodeling after SCI. The classification of macrophages into pro-inflammatory M1 and anti-inflammatory M2 subtypes has provided insights into their roles in SCI pathogenesis and recovery. Achieving a balance between pro-inflammatory and anti-inflammatory macrophages is crucial for promoting neuroprotection and tissue regeneration.
 
 Traumatic spinal cord injury (SCI) elicits a complex cascade of inflammatory responses involving immune cells, cytokines, and chemokines, which significantly influence the injury outcome and subsequent recovery. The interplay between immune cells, particularly monocyte subsets and lymphocytes, along with cytokine expression, trace element concentrations, and clinical factors, plays a crucial role in the survival of neurons and the regenerative processes following SCI [@milich2021]. Understanding these immunological processes is essential for developing effective therapeutic strategies to improve outcomes in SCI patients.
@@ -56,7 +56,7 @@ Advancements in immunotherapy have opened new avenues for SCI treatment. Cell-ba
 
 In summary, immunological processes significantly impact the pathophysiology and recovery of SCI. The interplay between immune cells, cytokines, and chemokines determines the injury outcome. Manipulating the immune response and developing targeted immunomodulatory therapies hold promise for improving outcomes in SCI patients. Understanding the dynamics of monocyte subsets, lymphocyte responsiveness, cytokine expression, trace element concentrations, and clinical factors contributes to identifying prognostic factors and potential therapeutic targets in traumatic SCI. Further research in this area is needed to advance our understanding and translate these findings into effective clinical interventions.
 
-## Recent findings
+## Findings
 
 ### Patients and Methods
 In the present study [@heller2021] we examined prospectively 18 (three female, 15 male) patients after traumatic spinal cord injury. Blood samples were drawn at admission and 4h, 9h, 12h, 1 and 3days as well as 1 and 2weeks and 1, 2 and 3months after the trauma. Analysis of cytokines (CCL2, IL-10, enolase 2, CXCL12, TGF-β1, TGF-β2) was performed using a multiplex cytokine panel. Plasma trace element concentrations of selenium, copper and zinc were determined by total reflection X-ray fluorescence analysis; neopterin, selenoprotein P (SELENOP) and ceruloplasmin (CP) by enzyme-linked immunosorbent assay; and selenium binding protein 1 (SELENBP1) by luminometric immunoassay. The responsive potential of lymphocytes was assessed using transformation tests. The monocyte subsets (classical, intermediate, and non-classical) and expression of CD14, CD16, CXCR4 and intracellular IL-10 were identified using a multi-colour flow cytometry analysis.

@@ -1,0 +1,76 @@
+---
+title: "Zinc Concentration Dynamics Indicate Neurological Impairment Odds after Traumatic Spinal Cord Injury"
+author:
+  - name: R. Heller
+date: "12 April 2020"
+# description: "R package that XY."
+# image: featured.png
+# image-alt: TEMPLATE logo
+categories:
+  - Spinal Cord Injury
+  - Original Article
+  - Open Access
+about:
+  template: solana
+  # image: featured.png
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+citation:
+  author: 
+    - R. Heller
+    - A. Sperl
+    - J. Seelig
+    - P. Haubruck
+    - T. Bock
+    - T. Werner
+    - A. Besseling
+    - Q. Sun
+    - L. Schomburg
+    - A. Moghaddam
+    - B. Biglari
+  type: article-journal
+  container-title: "Antioxidants"
+  doi: "10.3390/antiox9050421"
+  url: "https://doi.org/10.3390/antiox9050421"
+bibliography: references.bib
+csl: nature.csl
+google-scholar: true
+---
+
+<img src="https://vg01.met.vgwort.de/na/ba527903093a4710a7aea2ec4f545f54" loading="eager" width="1" height="1"/>
+
+The study titled "Zinc Concentration Dynamics Indicate Neurological Impairment Odds after Traumatic Spinal Cord Injury" focused on the role of serum Zinc (Zn) concentration dynamics as a potential diagnostic indicator for neurological impairment following Traumatic Spinal Cord Injury (TSCI).
+
+### Background
+
+TSCI is a severe injury predominantly affecting young patients, leading to substantial physical, psychosocial, and economic consequences. It involves a sequence of phases starting with immediate mechanical damage, followed by a prolonged secondary injury phase involving complex inflammatory responses and autonomic dysregulations. Early identification of neurological impairment risk is crucial for rapid and appropriate treatment decisions.
+
+### Role of Zinc in TSCI
+
+Zinc plays a crucial role in various biochemical pathways and immune responses. It is particularly vital in the early stages of immune response and acts as an acute-phase reactant, redistributing from blood serum into cellular compartments during inflammation. Its concentration dynamics are not well-understood, with existing research offering conflicting views on its neurotoxic or neuroprotective roles post-injury.
+
+## Findings
+
+### Study Aim and Methodology
+
+The study aimed to assess serum Zn concentration dynamics in TSCI patients and correlate these with neurological impairment. It involved 42 TSCI patients, categorized into a study group (S) with 33 patients (subdivided into those with and without neurological remission) and a control group (C) of 9 patients with vertebral fractures but without neurological impairment. Serum Zn concentrations were measured at multiple intervals post-injury using total reflection X-ray fluorescence (TXRF)[@heller2020].
+
+### Key Findings
+
+-   The median Zn concentrations in group S showed a significant drop within the first 9 hours post-injury, a trend stronger than that observed in the control group.
+-   The dynamic changes in Zn concentration could potentially indicate the risk of neurological impairment, with the binary logistic regression model showing an area under the curve (AUC) of 82.2% for predicting persistent neurological impairment based on Zn concentration changes.
+-   The study identified specific time points post-injury where serum Zn levels were most indicative of neurological outcomes.
+
+### Implications and Limitations
+
+The study suggests that monitoring serum Zn concentrations could provide a valuable diagnostic tool for assessing neurological impairment risk in TSCI patients, especially during the initial phase post-injury. This can be particularly beneficial for unresponsive patients. However, the study also notes limitations in the transferability of these findings to patients with thoracic or lumbar TSCI. Further research is needed to understand the underlying mechanisms and the role of Zn in different types of TSCI.
+
+In conclusion, this study offers promising insights into the use of serum Zn concentration dynamics as a diagnostic tool for neurological impairment in TSCI, highlighting its potential for improving early patient care and treatment strategies.
+
+## References
+
+::: {#refs}
+:::
