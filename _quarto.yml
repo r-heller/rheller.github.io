@@ -94,7 +94,7 @@ website:
       
     right: |
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
-      Inspiration and code snippets taken from [A. Handel](https://www.andreashandel.com/) and [A. Rapp](https://albert-rapp.de/)<br>
+      Inspiration and code snippets taken from [A. Handel](https://www.andreashandel.com/), [A. Heiss](https://www.andrewheiss.com/), and [A. Rapp](https://albert-rapp.de/)<br>
       [Source at {{< fa brands github >}} GitHub](https://github.com/r-heller/r-heller.github.io)
 
 format:
