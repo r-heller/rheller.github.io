@@ -40,7 +40,9 @@ csl: nature.csl
 google-scholar: true
 ---
 
-<img src="https://vg01.met.vgwort.de/na/ba527903093a4710a7aea2ec4f545f54" loading="eager" width="1" height="1"/>
+```{=html}
+<img loading="eager" src="https://vg01.met.vgwort.de/na/ba527903093a4710a7aea2ec4f545f54" width="1" height="1" alt=""/>
+```
 
 The study titled "Zinc Concentration Dynamics Indicate Neurological Impairment Odds after Traumatic Spinal Cord Injury" focused on the role of serum Zinc (Zn) concentration dynamics as a potential diagnostic indicator for neurological impairment following Traumatic Spinal Cord Injury (TSCI).
 
