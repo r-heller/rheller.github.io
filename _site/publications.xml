@@ -9,7 +9,7 @@
 <link>https://www.r-heller.com/publications.html</link>
 <atom:link href="https://www.r-heller.com/publications.xml" rel="self" type="application/rss+xml"/>
 <description>Website of R. Heller</description>
-<generator>quarto-1.3.433</generator>
+<generator>quarto-1.3.450</generator>
 <lastBuildDate>Fri, 21 May 2021 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Predicting neurological recovery after traumatic spinal cord injury by time-resolved analysis of monocyte subsets</title>
@@ -29,7 +29,7 @@
 <noscript>&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNC3GJG" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-<img loading="eager" src="https://www.r-heller.com/publications/heller2021/https:/vg01.met.vgwort.de/na/4bb8751c0857439ea31b9bdeac4bcd16" width="1" height="1">
+<img loading="eager" style="display:none;" src="https://www.r-heller.com/publications/heller2021/https:/vg01.met.vgwort.de/na/4bb8751c0857439ea31b9bdeac4bcd16" width="1" height="1" alt="">
 <section id="background" class="level2">
 <h2 data-anchor-id="background">Background</h2>
 <p>SCI is a devastating injury with profound physical and psychosocial consequences<span class="citation" data-cites="wyndaele2006a"><sup>1</sup></span>. It progresses through primary and secondary phases, with the latter characterized by intricate inflammatory responses. Monocyte-derived macrophages (MDMs) have been identified as key contributors to these inflammatory processes and tissue remodeling after SCI. The classification of macrophages into pro-inflammatory M1 and anti-inflammatory M2 subtypes has provided insights into their roles in SCI pathogenesis and recovery. Achieving a balance between pro-inflammatory and anti-inflammatory macrophages is crucial for promoting neuroprotection and tissue regeneration.</p>
@@ -91,6 +91,7 @@ time-resolved analysis of monocyte subsets. <em>Brain</em> (2021) doi:<a href="h
   <category>Spinal Cord Injury</category>
   <category>Original Article</category>
   <category>Open Access</category>
+  <category>Updated</category>
   <guid>https://www.r-heller.com/publications/heller2021/heller2021.html</guid>
   <pubDate>Fri, 21 May 2021 22:00:00 GMT</pubDate>
 </item>
@@ -112,7 +113,7 @@ time-resolved analysis of monocyte subsets. <em>Brain</em> (2021) doi:<a href="h
 <noscript>&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNC3GJG" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-<p><img src="https://www.r-heller.com/publications/heller2020/https:/vg01.met.vgwort.de/na/ba527903093a4710a7aea2ec4f545f54" loading="eager" width="1" height="1"></p>
+<img loading="eager" src="https://www.r-heller.com/publications/heller2020/https:/vg01.met.vgwort.de/na/ba527903093a4710a7aea2ec4f545f54" width="1" height="1" alt="">
 <p>The study titled “Zinc Concentration Dynamics Indicate Neurological Impairment Odds after Traumatic Spinal Cord Injury” focused on the role of serum Zinc (Zn) concentration dynamics as a potential diagnostic indicator for neurological impairment following Traumatic Spinal Cord Injury (TSCI).</p>
 <section id="background" class="level3">
 <h3 data-anchor-id="background">Background</h3>
@@ -172,6 +173,7 @@ Cord Injury. <em>Antioxidants</em> (2020) doi:<a href="https://doi.org/10.3390/a
   <category>Spinal Cord Injury</category>
   <category>Original Article</category>
   <category>Open Access</category>
+  <category>Updated</category>
   <guid>https://www.r-heller.com/publications/heller2020/heller2020.html</guid>
   <pubDate>Sat, 11 Apr 2020 22:00:00 GMT</pubDate>
 </item>
