@@ -10,7 +10,6 @@ categories:
   - Spinal Cord Injury
   - Original Article
   - Open Access
-  - Updated
 about:
   template: solana
   # image: featured.png

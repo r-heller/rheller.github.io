@@ -91,9 +91,55 @@ time-resolved analysis of monocyte subsets. <em>Brain</em> (2021) doi:<a href="h
   <category>Spinal Cord Injury</category>
   <category>Original Article</category>
   <category>Open Access</category>
-  <category>Updated</category>
   <guid>https://www.r-heller.com/publications/heller2021/heller2021.html</guid>
   <pubDate>Fri, 21 May 2021 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Test</title>
+  <dc:creator>R. Heller</dc:creator>
+  <dc:creator>R. Heller</dc:creator>
+  <link>https://www.r-heller.com/publications/heller2019/heller2019.html</link>
+  <description><![CDATA[ 
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7T94VJMY2C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-7T94VJMY2C');
+</script>
+<!-- Google Tag Manager (noscript) -->
+<noscript>&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNC3GJG" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<img loading="eager" src="https://www.r-heller.com/publications/heller2019/https:/vg01.met.vgwort.de/na/42ce1531fe9c4184a088ef6e98d987d5" width="1" height="1" alt="">
+<p>Test</p>
+<section id="introduction" class="level2">
+<h2 data-anchor-id="introduction">Introduction</h2>
+<p>Test</p>
+</section>
+<section id="references" class="level2">
+<h2 data-anchor-id="references">References</h2>
+<div id="refs">
+</div>
+
+
+</section>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{heller2020,
+  author = {Heller, R.},
+  title = {Test},
+  journal = {Journal},
+  date = {2020-04-12},
+  url = {https://doi.org/10.0000/XXX},
+  doi = {10.0000/XXX},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-heller2020" class="csl-entry quarto-appendix-citeas">
+<div class="">Heller, R. Test. <em>Journal</em> (2020) doi:<a href="https://doi.org/10.0000/XXX">10.0000/XXX</a>.</div>
+</div></div></section></div> ]]></description>
+  <category>Test</category>
+  <guid>https://www.r-heller.com/publications/heller2019/heller2019.html</guid>
+  <pubDate>Sat, 11 Apr 2020 22:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Zinc Concentration Dynamics Indicate Neurological Impairment Odds after Traumatic Spinal Cord Injury</title>
@@ -173,7 +219,6 @@ Cord Injury. <em>Antioxidants</em> (2020) doi:<a href="https://doi.org/10.3390/a
   <category>Spinal Cord Injury</category>
   <category>Original Article</category>
   <category>Open Access</category>
-  <category>Updated</category>
   <guid>https://www.r-heller.com/publications/heller2020/heller2020.html</guid>
   <pubDate>Sat, 11 Apr 2020 22:00:00 GMT</pubDate>
 </item>

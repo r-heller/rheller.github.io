@@ -163,5 +163,8 @@
   },
   "publications/heller2020/heller2020.qmd": {
     "heller2020.html": "00e1d337"
+  },
+  "publications/heller2019/heller2019.qmd": {
+    "heller2019.html": "b6f0fbf3"
   }
 }

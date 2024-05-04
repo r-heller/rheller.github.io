@@ -1,0 +1,45 @@
+---
+title: "Test"
+author:
+  - name: R. Heller
+date: "12 April 2020"
+# description: "R package that XY."
+# image: featured.png
+# image-alt: TEMPLATE logo
+categories:
+  - Test
+about:
+  template: solana
+  # image: featured.png
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+citation:
+  author: 
+    - R. Heller
+  type: article-journal
+  container-title: "Journal"
+  doi: "10.0000/XXX"
+  url: "https://doi.org/10.0000/XXX"
+bibliography: references.bib
+csl: nature.csl
+google-scholar: true
+---
+
+```{=html}
+<img loading="eager" src="https://vg01.met.vgwort.de/na/42ce1531fe9c4184a088ef6e98d987d5" width="1" height="1" alt=""/>
+```
+
+Test
+
+## Introduction
+
+Test
+
+
+## References
+
+::: {#refs}
+:::
