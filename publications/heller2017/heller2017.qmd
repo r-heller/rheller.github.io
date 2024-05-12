@@ -7,7 +7,7 @@ date: "12 April 2020"
 # image: featured.png
 # image-alt: TEMPLATE logo
 categories:
-  - Test Mobile
+  - Test Auto
 about:
   template: solana
   # image: featured.png
@@ -32,11 +32,11 @@ google-scholar: true
 <img loading="eager" src="https://vg01.met.vgwort.de/na/498dcf61038548acb61333654b8de252" width="1" height="1" alt=""/>
 ```
 
-Test Mobile
+Test Auto
 
 ## Introduction
 
-Test Mobile
+Test Auto
 
 
 ## References
