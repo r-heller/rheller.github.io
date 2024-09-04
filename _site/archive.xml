@@ -9,7 +9,7 @@
 <link>https://www.r-heller.com/archive.html</link>
 <atom:link href="https://www.r-heller.com/archive.xml" rel="self" type="application/rss+xml"/>
 <description>Website of R. Heller</description>
-<generator>quarto-1.3.450</generator>
+<generator>quarto-1.4.555</generator>
 <lastBuildDate>Tue, 31 May 2022 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Archive posts</title>
@@ -17,18 +17,31 @@
   <link>https://www.r-heller.com/archive/old-post/old_post.html</link>
   <description><![CDATA[ 
 <!-- Google tag (gtag.js) -->
+
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7T94VJMY2C"></script>
+
 <script>
+
   window.dataLayer = window.dataLayer || [];
+
   function gtag(){dataLayer.push(arguments);}
+
   gtag('js', new Date());
 
+
+
   gtag('config', 'G-7T94VJMY2C');
+
 </script>
 
+
+
 <!-- Google Tag Manager (noscript) -->
+
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNC3GJG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
 <!-- End Google Tag Manager (noscript) -->
+
 
 
 
@@ -66,7 +79,11 @@ font-style: inherit;">alpha =</span> <span class="fl" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">0.5</span>) </span></code></pre></div>
 <div class="cell-output-display">
-<p><img src="https://www.r-heller.com/archive/old-post/old_post_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid" width="672"></p>
+<div>
+<figure class="figure">
+<p><img src="https://www.r-heller.com/archive/old-post/old_post_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
 </div>
 </div>
 </section>
@@ -77,7 +94,7 @@ font-style: inherit;">0.5</span>) </span></code></pre></div>
 <div class="tab-content">
 <div id="tabset-1-1" class="tab-pane active" aria-labelledby="tabset-1-1-tab">
 <div class="cell">
-<details>
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1">preds_lm <span class="sc" style="color: #5E5E5E;
 background-color: null;
@@ -195,13 +212,17 @@ font-style: inherit;">'Bill length (in mm)'</span></span>
 <span id="cb2-16">  )</span></code></pre></div>
 </details>
 <div class="cell-output-display">
-<p><img src="https://www.r-heller.com/archive/old-post/old_post_files/figure-html/unnamed-chunk-3-1.png" class="img-fluid" width="672"></p>
+<div>
+<figure class="figure">
+<p><img src="https://www.r-heller.com/archive/old-post/old_post_files/figure-html/unnamed-chunk-3-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
 </div>
 </div>
 </div>
 <div id="tabset-1-2" class="tab-pane" aria-labelledby="tabset-1-2-tab">
 <div class="cell" data-fig.showtext="false">
-<details>
+<details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1">glm.mod <span class="ot" style="color: #003B4F;
 background-color: null;
@@ -375,7 +396,11 @@ font-style: inherit;">'Bill length (in mm)'</span></span>
 <span id="cb3-26">  )</span></code></pre></div>
 </details>
 <div class="cell-output-display">
-<p><img src="https://www.r-heller.com/archive/old-post/old_post_files/figure-html/unnamed-chunk-4-1.png" class="img-fluid" width="672"></p>
+<div>
+<figure class="figure">
+<p><img src="https://www.r-heller.com/archive/old-post/old_post_files/figure-html/unnamed-chunk-4-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
 </div>
 </div>
 </div>
@@ -389,9 +414,6 @@ font-style: inherit;">'Bill length (in mm)'</span></span>
 </section>
 <section id="columns" class="level2">
 <h2 class="anchored" data-anchor-id="columns">2 - Columns</h2>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="cell quarto-layout-cell" data-fig.showtext="false" style="flex-basis: 50.0%;justify-content: center;">
 <div class="sourceCode cell-code" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">geom_density</span>(</span>
@@ -441,79 +463,84 @@ background-color: null;
 font-style: inherit;">outline.type =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"upper"</span></span>
-<span id="cb4-12">)</span></code></pre></div>
-</div>
-<div class="cell quarto-layout-cell" data-fig.showtext="false" style="flex-basis: 50.0%;justify-content: center;">
-<div class="sourceCode cell-code" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><span class="fu" style="color: #4758AB;
+<span id="cb4-12">)</span>
+<span id="cb4-13"><span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">stat_density</span>(</span>
-<span id="cb5-2">  <span class="at" style="color: #657422;
+<span id="cb4-14">  <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">mapping =</span> <span class="cn" style="color: #8f5902;
 background-color: null;
 font-style: inherit;">NULL</span>,</span>
-<span id="cb5-3">  <span class="at" style="color: #657422;
+<span id="cb4-15">  <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">data =</span> <span class="cn" style="color: #8f5902;
 background-color: null;
 font-style: inherit;">NULL</span>,</span>
-<span id="cb5-4">  <span class="at" style="color: #657422;
+<span id="cb4-16">  <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">geom =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"area"</span>,</span>
-<span id="cb5-5">  <span class="at" style="color: #657422;
+<span id="cb4-17">  <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">position =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"stack"</span>,</span>
-<span id="cb5-6">  ...,</span>
-<span id="cb5-7">  <span class="at" style="color: #657422;
+<span id="cb4-18">  ...,</span>
+<span id="cb4-19">  <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">bw =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"nrd0"</span>,</span>
-<span id="cb5-8">  <span class="at" style="color: #657422;
+<span id="cb4-20">  <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">adjust =</span> <span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">1</span>,</span>
-<span id="cb5-9">  <span class="at" style="color: #657422;
+<span id="cb4-21">  <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">kernel =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"gaussian"</span>,</span>
-<span id="cb5-10">  <span class="at" style="color: #657422;
+<span id="cb4-22">  <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">n =</span> <span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">512</span>,</span>
-<span id="cb5-11">  <span class="at" style="color: #657422;
+<span id="cb4-23">  <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">trim =</span> <span class="cn" style="color: #8f5902;
 background-color: null;
 font-style: inherit;">FALSE</span>,</span>
-<span id="cb5-12">  <span class="at" style="color: #657422;
+<span id="cb4-24">  <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">na.rm =</span> <span class="cn" style="color: #8f5902;
 background-color: null;
 font-style: inherit;">FALSE</span>,</span>
-<span id="cb5-13">  <span class="at" style="color: #657422;
+<span id="cb4-25">  <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">orientation =</span> <span class="cn" style="color: #8f5902;
 background-color: null;
 font-style: inherit;">NA</span>,</span>
-<span id="cb5-14">  <span class="at" style="color: #657422;
+<span id="cb4-26">  <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">show.legend =</span> <span class="cn" style="color: #8f5902;
 background-color: null;
 font-style: inherit;">NA</span>,</span>
-<span id="cb5-15">  <span class="at" style="color: #657422;
+<span id="cb4-27">  <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">inherit.aes =</span> <span class="cn" style="color: #8f5902;
 background-color: null;
 font-style: inherit;">TRUE</span></span>
-<span id="cb5-16">)</span></code></pre></div>
+<span id="cb4-28">)</span></code></pre></div>
+<div class="quarto-layout-panel" data-layout="[[1,1]]">
+<div class="quarto-layout-row">
+<div class="cell quarto-layout-cell" data-fig.showtext="false" style="flex-basis: 50.0%;justify-content: flex-start;">
+
+</div>
+<div class="cell quarto-layout-cell" data-fig.showtext="false" style="flex-basis: 50.0%;justify-content: flex-start;">
+
 </div>
 </div>
 </div>
@@ -521,7 +548,7 @@ font-style: inherit;">TRUE</span></span>
 <section id="margin-captions" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="margin-captions">2 - Margin captions</h2>
 <div class="cell page-columns page-full" data-fig.showtext="false">
-<div class="sourceCode cell-code" id="cb6" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><span class="fu" style="color: #4758AB;
+<div class="sourceCode cell-code" id="cb5" data-cap-location="margin" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">ggplot</span>(<span class="at" style="color: #657422;
 background-color: null;
@@ -538,7 +565,7 @@ background-color: null;
 font-style: inherit;">fill =</span> continent)) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
-<span id="cb6-2">  <span class="fu" style="color: #4758AB;
+<span id="cb5-2">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">stat_density</span>(<span class="at" style="color: #657422;
 background-color: null;
@@ -553,7 +580,7 @@ font-style: inherit;">0.5</span>)</span></code></pre></div>
 <div class="quarto-figure quarto-figure-center page-columns page-full">
 <figure class="figure page-columns page-full">
 <p><img src="https://www.r-heller.com/archive/old-post/old_post_files/figure-html/unnamed-chunk-7-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption class="figure-caption margin-caption">Bla bla bla. This is a caption in the margin. Super cool isn’t it?</figcaption>
+<figcaption class="margin-caption">Bla bla bla. This is a caption in the margin. Super cool isn’t it?</figcaption>
 </figure>
 </div>
 </div>

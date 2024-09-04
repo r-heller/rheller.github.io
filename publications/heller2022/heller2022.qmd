@@ -1,0 +1,46 @@
+---
+title: "Test FINAL"
+author:
+  - name: R. Heller
+date: "04 September 2022"
+# description: "R package that XY."
+# image: featured.png
+# image-alt: TEMPLATE logo
+categories:
+  - Test
+  - FINAL
+about:
+  template: solana
+  # image: featured.png
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+citation:
+  author: 
+    - R. Heller
+  type: article-journal
+  container-title: "Journal"
+  doi: "10.0000/XXX"
+  url: "https://doi.org/10.0000/XXX"
+bibliography: references.bib
+csl: nature.csl
+google-scholar: true
+---
+
+```{=html}
+<img loading="eager" src="https://vg01.met.vgwort.de/na/e0db9de56966436da4d4a0ee74b1cc9e" width="1" height="1" alt=""/>
+```
+
+Test FINAL
+
+## Introduction
+
+Test FINAL
+
+
+## References
+
+::: {#refs}
+:::
